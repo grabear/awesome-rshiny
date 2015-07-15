@@ -35,9 +35,9 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 
 * [shiny official site](http://shiny.rstudio.com/)
 * [shiny github](https://github.com/rstudio/shiny)
-* [shiny-users google group](https://groups.google.com/forum/#!forum/shiny-discuss)
 
 #### shiny-community
+* [shiny-users google group](https://groups.google.com/forum/#!forum/shiny-discuss)
 
 #### tutorials
 
