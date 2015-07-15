@@ -90,7 +90,11 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 
 ### examples
 
-* [shiny salesman](https://github.com/toddwschneider/shiny-salesman)
+* [shiny salesman](https://github.com/toddwschneider/shiny-salesman) - traveling salesman app 
+* [shiny applets](https://github.com/ShinyEd/ShinyEd) - statistics education apps
+* [DeviumWeb](https://github.com/dgrapov/DeviumWeb) - interactive multivariate data analysis
+* [shinyData](https://github.com/yindeng/shinyData) - interactive data analysis and visualization
+
 ### apps
 
 ### contribution
