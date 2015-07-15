@@ -94,6 +94,7 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 * [shiny applets](https://github.com/ShinyEd/ShinyEd) - statistics education apps
 * [DeviumWeb](https://github.com/dgrapov/DeviumWeb) - interactive multivariate data analysis
 * [shinyData](https://github.com/yindeng/shinyData) - interactive data analysis and visualization
+* [dataView](https://github.com/dpastoor/dataView) - app to supplement Rstudio's `View` command
 
 ### apps
 
