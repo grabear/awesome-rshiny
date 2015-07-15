@@ -64,6 +64,10 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 
 #### libraries
 
+* [shinyAce](https://github.com/trestletech/shinyAce) - integrate ace editor with shiny
+* [shinyBS](https://github.com/ebailey78/shinyBS) - twitter bootstrap components for shiny
+* [shinyjs](https://github.com/daattali/shinyjs) - common javascript operations in shiny via R code* 
+
 #### integration
 
 #### forms
@@ -86,6 +90,7 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 
 ### examples
 
+* [shiny salesman](https://github.com/toddwschneider/shiny-salesman)
 ### apps
 
 ### contribution
