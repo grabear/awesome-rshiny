@@ -35,6 +35,7 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 
 * [shiny official site](http://shiny.rstudio.com/)
 * [shiny github](https://github.com/rstudio/shiny)
+* [reference docs](http://shiny.rstudio.com/reference/shiny/latest/)
 
 #### shiny-community
 * [shiny-users google group](https://groups.google.com/forum/#!forum/shiny-discuss)
@@ -52,6 +53,10 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 #### approach-explanation
 
 #### shiny-internals
+
+#### cheat-sheets
+
+* [rstudio shiny cheat-sheet](https://www.rstudio.com/resources/cheatsheets/)
 
 ### tools
 
@@ -72,6 +77,8 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 #### video-from-webinars
 
 #### video-tutorials
+
+* [teach yourself shiny series](http://shiny.rstudio.com/tutorial/)
 
 ### books
 
