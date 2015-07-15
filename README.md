@@ -6,7 +6,7 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
   - [Shiny General Resources](#shiny-general-resources)
   - [Shiny Community](#shiny-community)
   - [Tutorials](#tutorials)
-    - [React Tutorials](#shiny-tutorials)
+    - [Shiny Tutorials](#shiny-tutorials)
     - [Debugging Shiny](#debugging-shiny)
     - [Authentication and Authorization](#authentication-and-authorization)
     - [File Uploads](#uploads)
