@@ -11,8 +11,6 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
     - [Authentication and Authorization](#authentication-and-authorization)
     - [Shiny internals](#shiny-internals)
     - [Deployment](#deployment)
-  - [Approach Explanation](#approach-explanation)
-  - [Shiny Internals](#shiny-internals)
 - [Tools](#tools)
   - [Boilerplates](#boilerplates)
   - [Libraries](#libraries)
@@ -38,13 +36,20 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 * [shiny official site](http://shiny.rstudio.com/)
 * [shiny github](https://github.com/rstudio/shiny)
 * [reference docs](http://shiny.rstudio.com/reference/shiny/latest/)
+* [Shiny articles](http://shiny.rstudio.com/articles/)
 
 #### shiny-community
 * [shiny-users google group](https://groups.google.com/forum/#!forum/shiny-discuss)
+* [StackOverflow shiny questions](http://stackoverflow.com/questions/tagged/shiny)
+* [R-bloggers shiny articles](http://www.r-bloggers.com/search/shiny)
 
 #### tutorials
 
 ##### shiny-tutorials
+
+* [Blog post: Mimicking a Google Form with a shiny app](http://deanattali.com/2015/06/14/mimicking-google-form-shiny/)
+* [Blog post: Persistent data storage (and retrieval) in Shiny apps](http://deanattali.com/blog/shiny-persistent-data-storage/)
+* [Sending data from Shiny to JavaScript and vice versa](https://ryouready.wordpress.com/2013/11/20/sending-data-from-client-to-server-and-back-using-shiny/)
 
 ##### debugging-shiny
 
@@ -52,6 +57,7 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 
 #### shiny-internals
 
+* [App: saving and restoring session state of a shiny app (Joe Cheng)](https://github.com/jcheng5/shiny-resume)
 
 #### deployment
 * [How to get your own Shiny Server on the cloud to host your apps](http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
@@ -95,8 +101,11 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 * [DeviumWeb](https://github.com/dgrapov/DeviumWeb) - interactive multivariate data analysis
 * [shinyData](https://github.com/yindeng/shinyData) - interactive data analysis and visualization
 * [dataView](https://github.com/dpastoor/dataView) - app to supplement Rstudio's `View` command
-
+* [personal shiny server example](https://github.com/daattali/shiny-server) - setup of a sample Shiny Server, with the config files and sample apps included
+- 
 ### apps
+
+* [showmeshiny](http://www.showmeshiny.com/) - a huge gallery of Shiny apps
 
 ### cheat-sheets
 * [rstudio shiny cheat-sheet](https://www.rstudio.com/resources/cheatsheets/)
