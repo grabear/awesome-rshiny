@@ -9,7 +9,8 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
     - [Shiny Tutorials](#shiny-tutorials)
     - [Debugging Shiny](#debugging-shiny)
     - [Authentication and Authorization](#authentication-and-authorization)
-    - [File Uploads](#uploads)
+    - [Shiny internals](#shiny-internals)
+    - [Deployment](#deployment)
   - [Approach Explanation](#approach-explanation)
   - [Shiny Internals](#shiny-internals)
 - [Tools](#tools)
@@ -26,6 +27,7 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 - [Demos](#demos)
 - [Examples](#examples)
 - [Apps](#apps)
+- [Cheatsheets](#cheat-sheets)
 - [Contribution](#contribution)
 
 ---
@@ -48,15 +50,13 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 
 ##### authentication-and-authorization
 
-##### uploads
-
-#### approach-explanation
-
 #### shiny-internals
 
-#### cheat-sheets
 
-* [rstudio shiny cheat-sheet](https://www.rstudio.com/resources/cheatsheets/)
+#### deployment
+* [How to get your own Shiny Server on the cloud to host your apps](http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
+
+
 
 ### tools
 
@@ -97,5 +97,9 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 * [dataView](https://github.com/dpastoor/dataView) - app to supplement Rstudio's `View` command
 
 ### apps
+
+### cheat-sheets
+* [rstudio shiny cheat-sheet](https://www.rstudio.com/resources/cheatsheets/)
+
 
 ### contribution
