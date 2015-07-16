@@ -32,7 +32,6 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 ### resources
 
 #### shiny-general-resources
-
 * [shiny official site](http://shiny.rstudio.com/)
 * [shiny github](https://github.com/rstudio/shiny)
 * [reference docs](http://shiny.rstudio.com/reference/shiny/latest/)
@@ -46,7 +45,6 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 #### tutorials
 
 ##### shiny-tutorials
-
 * [Blog post: Mimicking a Google Form with a shiny app](http://deanattali.com/2015/06/14/mimicking-google-form-shiny/)
 * [Blog post: Persistent data storage (and retrieval) in Shiny apps](http://deanattali.com/blog/shiny-persistent-data-storage/)
 * [Sending data from Shiny to JavaScript and vice versa](https://ryouready.wordpress.com/2013/11/20/sending-data-from-client-to-server-and-back-using-shiny/)
@@ -56,7 +54,6 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 ##### authentication-and-authorization
 
 #### shiny-internals
-
 * [App: saving and restoring session state of a shiny app (Joe Cheng)](https://github.com/jcheng5/shiny-resume)
 
 #### deployment
@@ -69,7 +66,6 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 #### boilerplates
 
 #### libraries
-
 * [shinyAce](https://github.com/trestletech/shinyAce) - integrate ace editor with shiny
 * [shinyBS](https://github.com/ebailey78/shinyBS) - twitter bootstrap components for shiny
 * [shinyjs](https://github.com/daattali/shinyjs) - common javascript operations in shiny via R code* 
@@ -87,7 +83,6 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 #### video-from-webinars
 
 #### video-tutorials
-
 * [teach yourself shiny series](http://shiny.rstudio.com/tutorial/)
 
 ### books
@@ -102,9 +97,8 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 * [shinyData](https://github.com/yindeng/shinyData) - interactive data analysis and visualization
 * [dataView](https://github.com/dpastoor/dataView) - app to supplement Rstudio's `View` command
 * [personal shiny server example](https://github.com/daattali/shiny-server) - setup of a sample Shiny Server, with the config files and sample apps included
-- 
-### apps
 
+### apps
 * [showmeshiny](http://www.showmeshiny.com/) - a huge gallery of Shiny apps
 
 ### cheat-sheets
