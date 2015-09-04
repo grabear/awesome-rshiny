@@ -25,6 +25,7 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 - [Demos](#demos)
 - [Examples](#examples)
 - [Apps](#apps)
+- [dashboards](#dashboards)
 - [Cheatsheets](#cheat-sheets)
 - [Contribution](#contribution)
 
@@ -69,6 +70,7 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 * [shinyAce](https://github.com/trestletech/shinyAce) - integrate ace editor with shiny
 * [shinyBS](https://github.com/ebailey78/shinyBS) - twitter bootstrap components for shiny
 * [shinyjs](https://github.com/daattali/shinyjs) - common javascript operations in shiny via R code* 
+* [shiny-gridster](https://github.com/wch/shiny-gridster) - wraps the gridster library
 
 #### integration
 
@@ -97,9 +99,13 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 * [shinyData](https://github.com/yindeng/shinyData) - interactive data analysis and visualization
 * [dataView](https://github.com/dpastoor/dataView) - app to supplement Rstudio's `View` command
 * [personal shiny server example](https://github.com/daattali/shiny-server) - setup of a sample Shiny Server, with the config files and sample apps included
+* [shiny dashboard building](https://github.com/iheartradio/ShinyBuilder) - interactively build new shiny dashboards
 
 ### apps
 * [showmeshiny](http://www.showmeshiny.com/) - a huge gallery of Shiny apps
+
+### dashboards
+* [google analytics dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL
 
 ### cheat-sheets
 * [rstudio shiny cheat-sheet](https://www.rstudio.com/resources/cheatsheets/)
