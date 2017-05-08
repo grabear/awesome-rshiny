@@ -71,7 +71,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Abhinav Agrawal (YouTube)](https://www.youtube.com/playlist?list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
 * [AHmed HAsan (YouTube)](https://www.youtube.com/playlist?list=PLXiYeGj1hvHN5Nnu2VwRg_E-YMoc1vtan)
 * [Zev-Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
-* [AHmed HAsan (YouTube)](https://www.youtube.com/playlist?list=PLXiYeGj1hvHN5Nnu2VwRg_E-YMoc1vtan)
+* [Shiny Based Tablet or Desktop App](https://www.r-bloggers.com/shiny-based-tablet-or-desktop-app/)
 * [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 
 
@@ -95,22 +95,27 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [shinystan](http://mc-stan.org/interfaces/shinystan) - ShinyStan provides visual and numerical summaries of model parameters and convergence diagnostics for MCMC simulations.
 * [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - jQuery UI interactions and effects for shiny
 * [bsplus](https://github.com/ijlyttle/bsplus) - Shiny and R Markdown addons to Bootstrap 3
+* [shinyFiles](https://github.com/thomasp85/shinyFiles) - This package extends the functionality of shiny by providing an API for client side access to the server file system.
+* [shinyDND](https://github.com/ayayron/shinydnd) - shinyDND is an R package to create Shiny drag and drop elements in R.
+* [shinyforms](https://github.com/daattali/shinyforms) - Easily create questionnaire-type forms with Shiny 
 
 #### Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
 * [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
-	* [DT](https://github.com/rstudio/DT)
-	* [leaflet](http://rstudio.github.io/leaflet/shiny.html)
+	* [DT](https://github.com/rstudio/DT) - This package provides a function datatable() to display R data via the DataTables javascript library. 
+	* [leaflet](http://rstudio.github.io/leaflet/shiny.html) - Leaflet is a JavaScript library for creating dynamic maps that support panning and zooming along with various annotations like markers, polygons, and popups.
 	* [d3heatmap](https://github.com/rstudio/d3heatmap)
 	* [dygraphs](https://github.com/rstudio/dygraphs)
-	* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR)
-	* [MetricsGraphics](https://github.com/hrbrmstr/metricsgraphics)
-	* [networkD3](https://github.com/christophergandrud/networkD3)
-	* [rthreejs](https://github.com/bwlewis/rthreejs)
-	* [rbokeh](http://hafen.github.io/rbokeh/)
-	* [ggvis](https://github.com/rstudio/ggvis)
-	* [plotly](https://github.com/ropensci/plotly)
-	* [formattable](https://renkun.me/formattable/)
+	* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - A tool for creating diagrams and flowcharts using Graphviz and Mermaid.
+	* [MetricsGraphics](https://github.com/hrbrmstr/metricsgraphics) - MetricsGraphics enables easy creation of D3 scatterplots, line charts, and histograms.
+	* [networkD3](https://github.com/christophergandrud/networkD3) - Graph data visualization with D3
+	* [rthreejs](https://github.com/bwlewis/rthreejs) - 3D scatterplots and globes
+	* [rbokeh](http://hafen.github.io/rbokeh/) - An interface to Bokeh that provides a flexible, powerful, declarative framework for creating interactive plots. 
+	* [plotly](https://github.com/ropensci/plotly) - Plotly allows you to easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
+	* [formattable](https://renkun.me/formattable/) - This package is designed for applying formatting on vectors and data frames to make data presentation easier, richer, more flexible and hopefully convey more information.
+	* [Gallery of HTML Widgets](http://gallery.htmlwidgets.org/) - Gallery of all R htmlwidgets
+* [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R
+* [ggvis](https://github.com/rstudio/ggvis) - The goal of ggvis is to make it easy to describe interactive web graphics in R
 
 #### People
 * [Dean Attali](https://github.com/daattali)
