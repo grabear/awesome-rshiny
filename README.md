@@ -137,3 +137,4 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Rob Gilmore](https://github.com/grabear)
 * [Shaurita Hutchins](https://github.com/sdhutchins)
 * [Devin Pastoor](https://github.com/dpastoor)
+* [Dean Attali](https://github.com/daattali)
