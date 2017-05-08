@@ -48,12 +48,13 @@ A (somewhat) curated list of resources for R Shiny.
 #### Services
 
 * [R-Studio Server]()
-* [Shiny Server]()
+* [Shiny Server](https://github.com/rstudio/shiny-server)
 * [ShinyApps.io]()
 * [Digital Ocean]()
 
-#### Tutorials
-* [R-Studio]()
+#### Tutorials/Help
+* [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
+* [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 * [Dean Attali](http://deanattali.com/)
 	* [Blog Post:  Building Shiny apps - an interactive tutorial](http://deanattali.com/blog/building-shiny-apps-tutorial/)
 	* [Blog Post:  Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
@@ -82,20 +83,40 @@ A (somewhat) curated list of resources for R Shiny.
 
 #### boilerplates
 
-#### libraries
+#### Libraries
+* [R-Studio]()
+	* [shinydashboard](https://github.com/rstudio/shinydashboard)
+	* [shinythemes](https://github.com/rstudio/shinythemes)
+	* [shinygadgets](https://github.com/rstudio/shinygadgets)
+	*
+	*
 * [shinyAce](https://github.com/trestletech/shinyAce) - integrate ace editor with shiny
 * [shinyBS](https://github.com/ebailey78/shinyBS) - twitter bootstrap components for shiny
 * [shinyjs](https://github.com/daattali/shinyjs) - common javascript operations in shiny via R code*
-* [shiny-gridster](https://github.com/wch/shiny-gridster) - wraps the gridster library
 
 #### Integration
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
 * [Javascript](http://www.htmlwidgets.org/)
-* [Leaflet](http://rstudio.github.io/leaflet/shiny.html)
+	* [DT](https://github.com/rstudio/DT)
+	* [leaflet](http://rstudio.github.io/leaflet/shiny.html)
+	* [d3heatmap](https://github.com/rstudio/d3heatmap)
+	* [dygraphs](https://github.com/rstudio/dygraphs)
+	* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR)
+	* [MetricsGraphics](https://github.com/hrbrmstr/metricsgraphics)
+	* [networkD3](https://github.com/christophergandrud/networkD3)
+	* [rthreejs](https://github.com/bwlewis/rthreejs)
+* [shinyBS](https://ebailey78.github.io/shinyBS/index.html)
+* [ShinySky](https://github.com/AnalytixWare/ShinySky)
+* [radiant](https://github.com/radiant-rstats/radiant)
+* [shinyTree](https://github.com/tdanker/shinyTree)
+*
 
 #### People
-* [Dean Attali]()
-* [John Cheng]()
+* [Dean Attali](https://github.com/daattali)
+* [John Cheng](https://github.com/jcheng5)
+* [Winston Chang](https://github.com/wch)
+* [Barbara Borges Ribeiro](https://github.com/bborgesr)
+* [Ramnath Vaidyanathan](https://github.com/ramnathv)
 * [Jeff Allen](https://github.com/trestletech)
 * [Vincent Nijs](https://github.com/vnijs)
 * [Sebastian Kranz](https://github.com/skranz)
@@ -105,16 +126,20 @@ A (somewhat) curated list of resources for R Shiny.
 
 #### documentation-tools
 
-### videos
-
 #### video-from-webinars
 
 #### video-tutorials
 * [teach yourself shiny series](http://shiny.rstudio.com/tutorial/)
 
-### books
+### Books
+* [Web Application and Development Using Shiny (2nd edition) - by Chris Beely](https://www.amazon.com/Web-Application-Development-using-Shiny/dp/1782174346)
+* [Learing Shiny - by Hernán G. Resnizky](https://www.amazon.com/Learning-Shiny-Hernan-G-Resnizky/dp/1785280902)
 
-### demos
+### Dashboards
+* [google analytics dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL
+
+### Galleries
+* [showmeshiny](http://www.showmeshiny.com/) - a huge gallery of Shiny apps
 
 ### Examples
 
@@ -124,16 +149,7 @@ A (somewhat) curated list of resources for R Shiny.
 * [shinyData](https://github.com/yindeng/shinyData) - interactive data analysis and visualization
 * [dataView](https://github.com/dpastoor/dataView) - app to supplement Rstudio's `View` command
 * [personal shiny server example](https://github.com/daattali/shiny-server) - setup of a sample Shiny Server, with the config files and sample apps included
-* [shiny dashboard building](https://github.com/iheartradio/ShinyBuilder) - interactively build new shiny dashboards
-
-### apps
-* [showmeshiny](http://www.showmeshiny.com/) - a huge gallery of Shiny apps
-
-### dashboards
-* [google analytics dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL
-
-### cheat-sheets
-* [rstudio shiny cheat-sheet](https://www.rstudio.com/resources/cheatsheets/)
+* [shiny dashboard building](https://github.com/iheartradio/ShinyBuilder) - interactively build new shiny
 
 
 ### contribution
