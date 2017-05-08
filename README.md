@@ -1,10 +1,10 @@
-# awesome-shiny
+# Awesome R Shiny [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A (somewhat) currated list of resources for R Shiny in the style of others such as [awesome-react](https://github.com/enaqx/awesome-react)
+A (somewhat) curated list of resources for R Shiny.
 
 - [Resources](#resources)
-  - [Shiny General Resources](#shiny-general-resources)
-  - [Shiny Community](#shiny-community)
+  - [General](#general)
+  - [Community](#community)
   - [Tutorials](#tutorials)
     - [Shiny Tutorials](#shiny-tutorials)
     - [Debugging Shiny](#debugging-shiny)
@@ -30,24 +30,40 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 - [Contribution](#contribution)
 
 ---
-### resources
+## Resources
+#### General
+* [Official Website](http://shiny.rstudio.com/)
+	* [Function References](http://shiny.rstudio.com/reference/shiny/latest/)
+	* [Articles](http://shiny.rstudio.com/articles/)
+* [GitHub](https://github.com/rstudio/shiny)
 
-#### shiny-general-resources
-* [shiny official site](http://shiny.rstudio.com/)
-* [shiny github](https://github.com/rstudio/shiny)
-* [reference docs](http://shiny.rstudio.com/reference/shiny/latest/)
-* [Shiny articles](http://shiny.rstudio.com/articles/)
 
-#### shiny-community
-* [shiny-users google group](https://groups.google.com/forum/#!forum/shiny-discuss)
-* [StackOverflow shiny questions](http://stackoverflow.com/questions/tagged/shiny)
-* [R-bloggers shiny articles](http://www.r-bloggers.com/search/shiny)
+#### Community
+* [Shiny Server Forum](https://support.rstudio.com/hc/en-us/community/topics/200092706-Shiny-Server)
+* [StackOverflow Questions](http://stackoverflow.com/questions/tagged/shiny)
+* [R-bloggers](http://www.r-bloggers.com/search/shiny)
+* [Google Group](https://groups.google.com/forum/#!forum/shiny-discuss)
 
-#### tutorials
 
-##### shiny-tutorials
-* [Blog post: Mimicking a Google Form with a shiny app](http://deanattali.com/2015/06/14/mimicking-google-form-shiny/)
-* [Blog post: Persistent data storage (and retrieval) in Shiny apps](http://deanattali.com/blog/shiny-persistent-data-storage/)
+#### Services
+
+* [R-Studio Server]()
+* [Shiny Server]()
+* [ShinyApps.io]()
+* [Digital Ocean]()
+
+#### Tutorials
+* [R-Studio]()
+* [Dean Attali](http://deanattali.com/)
+	* [Blog Post:  Building Shiny apps - an interactive tutorial](http://deanattali.com/blog/building-shiny-apps-tutorial/)
+	* [Blog Post:  Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
+	* [Blog Post:  How to get your very own RStudio Server and Shiny Server with DigitalOcean](http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
+	* [Blog Post: Mimicking a Google Form with a shiny app](http://deanattali.com/2015/06/14/mimicking-google-form-shiny/)
+	* [Blog post: Persistent data storage (and retrieval) in Shiny apps](http://deanattali.com/blog/shiny-persistent-data-storage/)
+	* [Course: Stat545](http://stat545.com/)
+	* [Package:  shinyjs](http://deanattali.com/shinyjs/)
+	* [Package:  colourpicker](https://github.com/daattali/colourpicker)
+
 * [Sending data from Shiny to JavaScript and vice versa](https://ryouready.wordpress.com/2013/11/20/sending-data-from-client-to-server-and-back-using-shiny/)
 
 ##### debugging-shiny
@@ -62,17 +78,18 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 
 
 
-### tools
+### Tools
 
 #### boilerplates
 
 #### libraries
 * [shinyAce](https://github.com/trestletech/shinyAce) - integrate ace editor with shiny
 * [shinyBS](https://github.com/ebailey78/shinyBS) - twitter bootstrap components for shiny
-* [shinyjs](https://github.com/daattali/shinyjs) - common javascript operations in shiny via R code* 
+* [shinyjs](https://github.com/daattali/shinyjs) - common javascript operations in shiny via R code*
 * [shiny-gridster](https://github.com/wch/shiny-gridster) - wraps the gridster library
 
-#### integration
+#### Integration
+* [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
 
 #### forms
 
@@ -91,9 +108,9 @@ A (somewhat) currated list of resources for R Shiny in the style of others such 
 
 ### demos
 
-### examples
+### Examples
 
-* [shiny salesman](https://github.com/toddwschneider/shiny-salesman) - traveling salesman app 
+* [shiny salesman](https://github.com/toddwschneider/shiny-salesman) - traveling salesman app
 * [shiny applets](https://github.com/ShinyEd/ShinyEd) - statistics education apps
 * [DeviumWeb](https://github.com/dgrapov/DeviumWeb) - interactive multivariate data analysis
 * [shinyData](https://github.com/yindeng/shinyData) - interactive data analysis and visualization
