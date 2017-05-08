@@ -10,7 +10,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 - [Tools](#tools)
     - [Boilerplates](#boilerplates)
     - [Libraries](#libraries)
-    - [Integration](#integration)
+    - [Integrations](#integrations)
 - [People](#people)
 - [Books](#books)
 - [Galleries](#galleries)
@@ -37,6 +37,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [StackOverflow Questions](http://stackoverflow.com/questions/tagged/shiny)
 * [R-bloggers](http://www.r-bloggers.com/search/shiny)
 * [Google Group](https://groups.google.com/forum/#!forum/shiny-discuss)
+* [rOpenSci](https://ropensci.org/)
 
 #### Services
 * [R-Studio Server](https://www.rstudio.com/products/rstudio/download-server/)
@@ -70,6 +71,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Abhinav Agrawal (YouTube)](https://www.youtube.com/playlist?list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
 * [AHmed HAsan (YouTube)](https://www.youtube.com/playlist?list=PLXiYeGj1hvHN5Nnu2VwRg_E-YMoc1vtan)
 * [Zev-Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
+* [AHmed HAsan (YouTube)](https://www.youtube.com/playlist?list=PLXiYeGj1hvHN5Nnu2VwRg_E-YMoc1vtan)
 * [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 
 
@@ -90,10 +92,13 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [ShinySky](https://github.com/AnalytixWare/ShinySky)
 * [radiant](https://github.com/radiant-rstats/radiant)
 * [shinyTree](https://github.com/tdanker/shinyTree)
+* [shinystan](http://mc-stan.org/interfaces/shinystan) - ShinyStan provides visual and numerical summaries of model parameters and convergence diagnostics for MCMC simulations.
+* [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - jQuery UI interactions and effects for shiny
+* [bsplus](https://github.com/ijlyttle/bsplus) - Shiny and R Markdown addons to Bootstrap 3
 
-#### Integration
+#### Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
-* [Javascript](http://www.htmlwidgets.org/)
+* [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
 	* [DT](https://github.com/rstudio/DT)
 	* [leaflet](http://rstudio.github.io/leaflet/shiny.html)
 	* [d3heatmap](https://github.com/rstudio/d3heatmap)
@@ -102,6 +107,10 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [MetricsGraphics](https://github.com/hrbrmstr/metricsgraphics)
 	* [networkD3](https://github.com/christophergandrud/networkD3)
 	* [rthreejs](https://github.com/bwlewis/rthreejs)
+	* [rbokeh](http://hafen.github.io/rbokeh/)
+	* [ggvis](https://github.com/rstudio/ggvis)
+	* [plotly](https://github.com/ropensci/plotly)
+	* [formattable](https://renkun.me/formattable/)
 
 #### People
 * [Dean Attali](https://github.com/daattali)
@@ -130,11 +139,15 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [STARTapp](https://github.com/jminnier/STARTapp) -
 * [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) -
 * [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL
-
+* [BallR](https://github.com/toddwschneider/ballr) - BallR uses the NBA Stats API to visualize every shot taken by a player during an NBA season dating back to 1996.
+* [DDCV](https://github.com/xtmgah/DDCV) - A shiny app to evaluate drug-drug interactions.
+* [Github: Hot or Not](https://github.com/wsurles/github_hot_or_not) - A Shiny App that analyzes what repos are hot on github.
+* [GenMap-Comparator](https://github.com/holtzy/GenMap-Comparator) - An application to compare genetic maps with D3 & Shiny.
+* [MAVIS](https://github.com/kylehamilton/MAVIS) - MAVIS: Meta Analysis via Shiny 
 ----------
 
 ### Contributors
 * [Rob Gilmore](https://github.com/grabear)
-* [Shaurita Hutchins](https://github.com/sdhutchins)
+* [S. Hutchins](https://github.com/sdhutchins)
 * [Devin Pastoor](https://github.com/dpastoor)
 * [Dean Attali](https://github.com/daattali)
