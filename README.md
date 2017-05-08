@@ -20,13 +20,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 ----------
 
-----------
-
 ## Resources
-
-
-----------
-
 
 #### General
 * [Official Website](http://shiny.rstudio.com/)
@@ -82,9 +76,6 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 
 ## Tools
-
-
-----------
 
 
 #### Packages
@@ -148,4 +139,5 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 ### Contributors
 [Rob Gilmore](https://github.com/grabear)
+
 [Shaurita Hutchins]()
