@@ -72,11 +72,8 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 
 
-----------
-
 
 ## Tools
-
 
 #### Packages
 * [R-Studio]()
@@ -133,9 +130,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) -
 * [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL
 
-
 ----------
-
 
 ### Contributors
 [Rob Gilmore](https://github.com/grabear)
