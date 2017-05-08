@@ -43,6 +43,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Shiny Server](https://github.com/rstudio/shiny-server)
 * [ShinyApps.io](http://www.shinyapps.io/)
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
+* [RStudio Connect](https://www.rstudio.com/products/connect/)
 
 #### Tutorials
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
