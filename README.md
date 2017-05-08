@@ -90,7 +90,15 @@ A (somewhat) curated list of resources for R Shiny.
 
 #### Integration
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
+* [Javascript](http://www.htmlwidgets.org/)
+* [Leaflet](http://rstudio.github.io/leaflet/shiny.html)
 
+#### People
+* [Dean Attali]()
+* [John Cheng]()
+* [Jeff Allen](https://github.com/trestletech)
+* [Vincent Nijs](https://github.com/vnijs)
+* [Sebastian Kranz](https://github.com/skranz)
 #### forms
 
 #### unit-testing
