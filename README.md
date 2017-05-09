@@ -115,6 +115,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [formattable](https://renkun.me/formattable/) - This package is designed for applying formatting on vectors and data frames to make data presentation easier, richer, more flexible and hopefully convey more information.
 	* [Gallery of HTML Widgets](http://gallery.htmlwidgets.org/) - Gallery of all R htmlwidgets
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R
+* [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html)
 * [ggvis](https://github.com/rstudio/ggvis) - The goal of ggvis is to make it easy to describe interactive web graphics in R
 
 #### People
