@@ -120,7 +120,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 #### People
 * [Dean Attali](https://github.com/daattali)
-* [John Cheng](https://github.com/jcheng5)
+* [Joe Cheng](https://github.com/jcheng5)
 * [Winston Chang](https://github.com/wch)
 * [Barbara Borges Ribeiro](https://github.com/bborgesr)
 * [Ramnath Vaidyanathan](https://github.com/ramnathv)
