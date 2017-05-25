@@ -20,9 +20,9 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 ----------
 
-## Resources
+# Resources
 
-#### General
+## General
 * [Official Website](http://shiny.rstudio.com/)
 	* [Blog](https://blog.rstudio.org/category/shiny/)
 	* [Articles](http://shiny.rstudio.com/articles/)
@@ -32,21 +32,21 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [Function References](http://shiny.rstudio.com/reference/shiny/latest/)
 * [GitHub](https://github.com/rstudio/shiny)
 
-#### Community
+## Community
 * [Shiny Server Forum](https://support.rstudio.com/hc/en-us/community/topics/200092706-Shiny-Server)
 * [StackOverflow Questions](http://stackoverflow.com/questions/tagged/shiny)
 * [R-bloggers](http://www.r-bloggers.com/search/shiny)
 * [Google Group](https://groups.google.com/forum/#!forum/shiny-discuss)
 * [rOpenSci](https://ropensci.org/)
 
-#### Services
+## Services
 * [R-Studio Server](https://www.rstudio.com/products/rstudio/download-server/)
 * [Shiny Server](https://github.com/rstudio/shiny-server)
 * [ShinyApps.io](http://www.shinyapps.io/)
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
 * [RStudio Connect](https://www.rstudio.com/products/connect/)
 
-#### Tutorials
+## Tutorials
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
 	* [Effective Reactive Programming – Part 1 & Part 2](https://www.rstudio.com/resources/videos/effective-reactive-programming/)
 	* [Coordinated multiple views (linked brushing)](https://www.rstudio.com/resources/videos/coordinated-multiple-views-linked-brushing/)
@@ -76,9 +76,9 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 
 
-## Tools
+# Tools
 
-#### Packages
+## Packages
 * [R-Studio]()
 	* [shinydashboard](https://github.com/rstudio/shinydashboard)
 	* [shinythemes](https://github.com/rstudio/shinythemes)
@@ -99,7 +99,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [shinyDND](https://github.com/ayayron/shinydnd) - shinyDND is an R package to create Shiny drag and drop elements in R.
 * [shinyforms](https://github.com/daattali/shinyforms) - Easily create questionnaire-type forms with Shiny.
 
-#### Integrations
+## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
 * [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
 	* [DT](https://github.com/rstudio/DT) - This package provides a function datatable() to display R data via the DataTables javascript library.
@@ -118,7 +118,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
 * [ggvis](https://github.com/rstudio/ggvis) - The goal of ggvis is to make it easy to describe interactive web graphics in R
 
-#### People
+# People
 * [Dean Attali](https://github.com/daattali)
 * [Joe Cheng](https://github.com/jcheng5)
 * [Winston Chang](https://github.com/wch)
@@ -128,16 +128,16 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Vincent Nijs](https://github.com/vnijs)
 * [Sebastian Kranz](https://github.com/skranz)
 
-### Books
+# Books
 * [Web Application and Development Using Shiny (2nd edition) - by Chris Beely](https://www.amazon.com/Web-Application-Development-using-Shiny/dp/1782174346)
 * [Learing Shiny - by Hernán G. Resnizky](https://www.amazon.com/Learning-Shiny-Hernan-G-Resnizky/dp/1785280902)
 
-### Galleries
+# Galleries
 * [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/)
 * [Rstudio's shiny gallery](https://shiny.rstudio.com/gallery/)
 * [showmeshiny](http://www.showmeshiny.com/) - a huge gallery of Shiny apps.
 
-### App Examples
+# App Examples
 * [Waze](https://www.rstudio.com/resources/customer-spotlight/waze_story/) - Community based real-time traffic and navigation info.
 * [Astra Zenca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
 * [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - traveling salesman app.
@@ -154,7 +154,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [shinyTreeViewer](https://github.com/KlausVigo/shinyTreeViewer) - A simple treeviewer based on the R packages ape and phangorn.
 ----------
 
-### Contributors
+# Contributors
 * [Rob Gilmore](https://github.com/grabear)
 * [S. Hutchins](https://github.com/sdhutchins)
 * [Devin Pastoor](https://github.com/dpastoor)
