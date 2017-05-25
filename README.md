@@ -10,7 +10,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 - [Tools](#tools)
     - [Boilerplates](#boilerplates)
     - [Libraries](#libraries)
-    - [Integration](#integration)
+    - [Integrations](#integrations)
 - [People](#people)
 - [Books](#books)
 - [Galleries](#galleries)
@@ -37,12 +37,14 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [StackOverflow Questions](http://stackoverflow.com/questions/tagged/shiny)
 * [R-bloggers](http://www.r-bloggers.com/search/shiny)
 * [Google Group](https://groups.google.com/forum/#!forum/shiny-discuss)
+* [rOpenSci](https://ropensci.org/)
 
 #### Services
 * [R-Studio Server](https://www.rstudio.com/products/rstudio/download-server/)
 * [Shiny Server](https://github.com/rstudio/shiny-server)
 * [ShinyApps.io](http://www.shinyapps.io/)
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
+* [RStudio Connect](https://www.rstudio.com/products/connect/)
 
 #### Tutorials
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
@@ -69,6 +71,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Abhinav Agrawal (YouTube)](https://www.youtube.com/playlist?list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
 * [AHmed HAsan (YouTube)](https://www.youtube.com/playlist?list=PLXiYeGj1hvHN5Nnu2VwRg_E-YMoc1vtan)
 * [Zev-Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
+* [Shiny Based Tablet or Desktop App](https://www.r-bloggers.com/shiny-based-tablet-or-desktop-app/)
 * [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 
 
@@ -80,31 +83,44 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [shinydashboard](https://github.com/rstudio/shinydashboard)
 	* [shinythemes](https://github.com/rstudio/shinythemes)
 	* [shinygadgets](https://github.com/rstudio/shinygadgets)
-* [shinyAce](https://github.com/trestletech/shinyAce) - integrate ace editor with shiny
-* [shinyBS](https://github.com/ebailey78/shinyBS) - twitter bootstrap components for shiny
-* [shinyjs](https://github.com/daattali/shinyjs) - common javascript operations in shiny via R code
-* [colourpicker](https://github.com/daattali/colourpicker)
-* [shinyEvents](https://github.com/skranz/shinyEvents)
-* [shinyBS](https://ebailey78.github.io/shinyBS/index.html)
-* [ShinySky](https://github.com/AnalytixWare/ShinySky)
-* [radiant](https://github.com/radiant-rstats/radiant)
-* [shinyTree](https://github.com/tdanker/shinyTree)
+* [shinyAce](https://github.com/trestletech/shinyAce) - integrate ace editor with shiny.
+* [shinyBS](https://github.com/ebailey78/shinyBS) - twitter bootstrap components for shiny.
+* [shinyjs](https://github.com/daattali/shinyjs) - common javascript operations in shiny via R code.
+* [colourpicker](https://github.com/daattali/colourpicker) - colourpicker gives you a colour picker widget that can be used in different contexts in R.
+* [shinyEvents](https://github.com/skranz/shinyEvents) - Alternative way to build shiny apps based on event handlers.
+* [shinyBS](https://ebailey78.github.io/shinyBS/index.html) - Twitter Bootstrap Components for Shiny.
+* [ShinySky](https://github.com/AnalytixWare/ShinySky) - Various UI widgets/components not part of Shiny e.g. alerts, styled buttons.
+* [radiant](https://github.com/radiant-rstats/radiant) - Business analytics using R and Shiny.
+* [shinyTree](https://github.com/tdanker/shinyTree) - The shinyTree package enables Shiny application developers to use the jsTree library in their applications.
+* [shinystan](http://mc-stan.org/interfaces/shinystan) - ShinyStan provides visual and numerical summaries of model parameters and convergence diagnostics for MCMC simulations.
+* [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - jQuery UI interactions and effects for shiny.
+* [bsplus](https://github.com/ijlyttle/bsplus) - Shiny and R Markdown addons to Bootstrap 3.
+* [shinyFiles](https://github.com/thomasp85/shinyFiles) - This package extends the functionality of shiny by providing an API for client side access to the server file system.
+* [shinyDND](https://github.com/ayayron/shinydnd) - shinyDND is an R package to create Shiny drag and drop elements in R.
+* [shinyforms](https://github.com/daattali/shinyforms) - Easily create questionnaire-type forms with Shiny.
 
-#### Integration
+#### Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
-* [Javascript](http://www.htmlwidgets.org/)
-	* [DT](https://github.com/rstudio/DT)
-	* [leaflet](http://rstudio.github.io/leaflet/shiny.html)
-	* [d3heatmap](https://github.com/rstudio/d3heatmap)
-	* [dygraphs](https://github.com/rstudio/dygraphs)
-	* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR)
-	* [MetricsGraphics](https://github.com/hrbrmstr/metricsgraphics)
-	* [networkD3](https://github.com/christophergandrud/networkD3)
-	* [rthreejs](https://github.com/bwlewis/rthreejs)
+* [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
+	* [DT](https://github.com/rstudio/DT) - This package provides a function datatable() to display R data via the DataTables javascript library.
+	* [leaflet](http://rstudio.github.io/leaflet/shiny.html) - Leaflet is a JavaScript library for creating dynamic maps that support panning and zooming along with various annotations like markers, polygons, and popups.
+	* [d3heatmap](https://github.com/rstudio/d3heatmap) - This is an R package that implements a heatmap htmlwidget.
+	* [dygraphs](https://github.com/rstudio/dygraphs) - The dygraphs package is an R interface to the dygraphs JavaScript charting library. It provides rich facilites for charting time-series data in R.
+	* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - A tool for creating diagrams and flowcharts using Graphviz and Mermaid.
+	* [MetricsGraphics](https://github.com/hrbrmstr/metricsgraphics) - MetricsGraphics enables easy creation of D3 scatterplots, line charts, and histograms.
+	* [networkD3](https://github.com/christophergandrud/networkD3) - Graph data visualization with D3.
+	* [rthreejs](https://github.com/bwlewis/rthreejs) - 3D scatterplots and globes.
+	* [rbokeh](http://hafen.github.io/rbokeh/) - An interface to Bokeh that provides a flexible, powerful, declarative framework for creating interactive plots.
+	* [plotly](https://github.com/ropensci/plotly) - Plotly allows you to easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
+	* [formattable](https://renkun.me/formattable/) - This package is designed for applying formatting on vectors and data frames to make data presentation easier, richer, more flexible and hopefully convey more information.
+	* [Gallery of HTML Widgets](http://gallery.htmlwidgets.org/) - Gallery of all R htmlwidgets.
+* [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
+* [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
+* [ggvis](https://github.com/rstudio/ggvis) - The goal of ggvis is to make it easy to describe interactive web graphics in R
 
 #### People
 * [Dean Attali](https://github.com/daattali)
-* [John Cheng](https://github.com/jcheng5)
+* [Joe Cheng](https://github.com/jcheng5)
 * [Winston Chang](https://github.com/wch)
 * [Barbara Borges Ribeiro](https://github.com/bborgesr)
 * [Ramnath Vaidyanathan](https://github.com/ramnathv)
@@ -118,21 +134,28 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 ### Galleries
 * [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/)
-* [showmeshiny](http://www.showmeshiny.com/) - a huge gallery of Shiny apps
+* [Rstudio's shiny gallery](https://shiny.rstudio.com/gallery/)
+* [showmeshiny](http://www.showmeshiny.com/) - a huge gallery of Shiny apps.
 
-### Examples
+### App Examples
 * [Waze](https://www.rstudio.com/resources/customer-spotlight/waze_story/) - Community based real-time traffic and navigation info.
 * [Astra Zenca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
-* [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - traveling salesman app
-* [shinyEd](https://github.com/ShinyEd/ShinyEd) - statistics education apps
-* [shinyData](https://github.com/yindeng/shinyData) - interactive data analysis and visualization
-* [STARTapp](https://github.com/jminnier/STARTapp) -
-* [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) -
-* [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL
-
+* [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - traveling salesman app.
+* [shinyEd](https://github.com/ShinyEd/ShinyEd) - statistics education apps.
+* [shinyData](https://github.com/yindeng/shinyData) - interactive data analysis and visualization.
+* [STARTapp](https://github.com/jminnier/STARTapp) - R Shiny Transcriptome Analysis Resource Tool.
+* [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) - an interactive web application that provides a graphical user interface to the microbiome analysis package for R, called phyloseq.
+* [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL.
+* [BallR](https://github.com/toddwschneider/ballr) - BallR uses the NBA Stats API to visualize every shot taken by a player during an NBA season dating back to 1996.
+* [DDCV](https://github.com/xtmgah/DDCV) - A shiny app to evaluate drug-drug interactions.
+* [Github: Hot or Not](https://github.com/wsurles/github_hot_or_not) - A Shiny App that analyzes what repos are hot on github.
+* [GenMap-Comparator](https://github.com/holtzy/GenMap-Comparator) - An application to compare genetic maps with D3 & Shiny.
+* [MAVIS](https://github.com/kylehamilton/MAVIS) - MAVIS: Meta Analysis via Shiny.
+* [shinyTreeViewer](https://github.com/KlausVigo/shinyTreeViewer) - A simple treeviewer based on the R packages ape and phangorn.
 ----------
 
 ### Contributors
 * [Rob Gilmore](https://github.com/grabear)
-* [Shaurita Hutchins](https://github.com/sdhutchins)
+* [S. Hutchins](https://github.com/sdhutchins)
 * [Devin Pastoor](https://github.com/dpastoor)
+* [Dean Attali](https://github.com/daattali)
