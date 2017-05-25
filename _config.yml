@@ -17,7 +17,6 @@ title: Awesome R Shiny
 description: > # this means to ignore newlines until "baseurl:"
    Find Great R Shiny packages
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://grabear.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
