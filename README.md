@@ -1,3 +1,8 @@
+---
+title: Awesome rShiny
+permalink: https://grabear.github.io/awesome-rshiny/
+---
+
 # Awesome R Shiny [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for R Shiny.  This awesome list was inspired by https://github.com/dpastoor/awesome-shiny.
