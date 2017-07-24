@@ -84,11 +84,10 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [shinythemes](https://github.com/rstudio/shinythemes)
 	* [shinygadgets](https://github.com/rstudio/shinygadgets)
 * [shinyAce](https://github.com/trestletech/shinyAce) - integrate ace editor with shiny.
-* [shinyBS](https://github.com/ebailey78/shinyBS) - twitter bootstrap components for shiny.
+* [shinyBS](https://github.com/ebailey78/shinyBS) - Twitter Bootstrap Components for Shiny.
 * [shinyjs](https://github.com/daattali/shinyjs) - common javascript operations in shiny via R code.
 * [colourpicker](https://github.com/daattali/colourpicker) - colourpicker gives you a colour picker widget that can be used in different contexts in R.
 * [shinyEvents](https://github.com/skranz/shinyEvents) - Alternative way to build shiny apps based on event handlers.
-* [shinyBS](https://ebailey78.github.io/shinyBS/index.html) - Twitter Bootstrap Components for Shiny.
 * [ShinySky](https://github.com/AnalytixWare/ShinySky) - Various UI widgets/components not part of Shiny e.g. alerts, styled buttons.
 * [radiant](https://github.com/radiant-rstats/radiant) - Business analytics using R and Shiny.
 * [shinyTree](https://github.com/tdanker/shinyTree) - The shinyTree package enables Shiny application developers to use the jsTree library in their applications.
