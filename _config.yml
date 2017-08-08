@@ -21,4 +21,6 @@ url: "https://grabear.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+kramdown:  
+  parse_block_html: true
 theme: jekyll-theme-dinky
