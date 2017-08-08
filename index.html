@@ -1,7 +1,3 @@
----
-layout: null
----
-
 <!DOCTYPE html>
 <html>
 <head>
