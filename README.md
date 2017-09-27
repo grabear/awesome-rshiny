@@ -48,6 +48,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 ## Tutorials
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
+    * [RStartHere](https://github.com/rstudio/RStartHere)
 	* [Effective Reactive Programming – Part 1 & Part 2](https://www.rstudio.com/resources/videos/effective-reactive-programming/)
 	* [Coordinated multiple views (linked brushing)](https://www.rstudio.com/resources/videos/coordinated-multiple-views-linked-brushing/)
 	* [Building interactive tools for exploratory data analysis (gadgets)](https://www.rstudio.com/resources/videos/building-interactive-tools-for-exploratory-data-analysis/)
@@ -68,6 +69,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [Blog Post: Mimicking a Google Form with a shiny app](http://deanattali.com/2015/06/14/mimicking-google-form-shiny/)
 	* [Blog post: Persistent data storage (and retrieval) in Shiny apps](http://deanattali.com/blog/shiny-persistent-data-storage/)
 	* [Course: Stat545](http://stat545.com/)
+	* [Advanced-Shiny](https://github.com/daattali/advanced-shiny)
 * [Joe Cheng](https://medium.com/@joe.cheng)
 	* [Async programming in R and Shiny](https://medium.com/@joe.cheng/async-programming-in-r-and-shiny-ebe8c5010790)
 	* [An informal intro to async Shiny](https://medium.com/@joe.cheng/an-informal-intro-to-async-shiny-cbf01c85c4c5)
@@ -100,6 +102,12 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [shinyFiles](https://github.com/thomasp85/shinyFiles) - This package extends the functionality of shiny by providing an API for client side access to the server file system.
 * [shinyDND](https://github.com/ayayron/shinydnd) - shinyDND is an R package to create Shiny drag and drop elements in R.
 * [shinyforms](https://github.com/daattali/shinyforms) - Easily create questionnaire-type forms with Shiny.
+* [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny)
+* [shinyFeedback](https://github.com/merlinoa/shinyFeedback)
+* [shinycssloader](https://github.com/andrewsali/shinycssloaders)
+* [regexSelect](https://github.com/yonicd/regexSelect)
+* [rclipboard](https://github.com/sbihorel/rclipboard)
+* [directoryInput](https://github.com/wleepang/shiny-directory-input)
 
 ## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
@@ -116,9 +124,12 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [plotly](https://github.com/ropensci/plotly) - Plotly allows you to easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
 	* [formattable](https://renkun.me/formattable/) - This package is designed for applying formatting on vectors and data frames to make data presentation easier, richer, more flexible and hopefully convey more information.
 	* [Gallery of HTML Widgets](http://gallery.htmlwidgets.org/) - Gallery of all R htmlwidgets.
+	* [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget)
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
 * [ggvis](https://github.com/rstudio/ggvis) - The goal of ggvis is to make it easy to describe interactive web graphics in R
+* [RInno](https://github.com/ficonsulting/RInno)
+* [googleVis](https://github.com/mages/googleVis)
 
 # People
 * [Dean Attali](https://github.com/daattali)
@@ -140,6 +151,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [showmeshiny](http://www.showmeshiny.com/) - a huge gallery of Shiny apps.
 
 # App Examples
+* [R-Studio Examples](https://github.com/rstudio/shiny-examples)
 * [Waze](https://www.rstudio.com/resources/customer-spotlight/waze_story/) - Community based real-time traffic and navigation info.
 * [Astra Zenca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
 * [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - traveling salesman app.
