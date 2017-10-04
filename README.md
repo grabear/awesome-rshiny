@@ -108,6 +108,8 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [regexSelect](https://github.com/yonicd/regexSelect)
 * [rclipboard](https://github.com/sbihorel/rclipboard)
 * [directoryInput](https://github.com/wleepang/shiny-directory-input)
+* [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications
+* [shinysense](https://github.com/nstrayer/shinysense) - A series of shiny modules to help shiny sense the world around it.
 
 ## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
