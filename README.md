@@ -1,4 +1,4 @@
-# Awesome R Shiny [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome R Shiny [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for R Shiny.  This awesome list was inspired by https://github.com/dpastoor/awesome-shiny.
 
@@ -78,6 +78,8 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Zev-Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
 * [Shiny Based Tablet or Desktop App](https://www.r-bloggers.com/shiny-based-tablet-or-desktop-app/)
 * [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+* [R-Shiny tutorial pdf](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
+* [R-Shiny basics](http://neondataskills.org/R/Create-Basic-Shiny-App-In-R)
 
 
 
