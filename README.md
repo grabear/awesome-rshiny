@@ -102,12 +102,12 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [shinyFiles](https://github.com/thomasp85/shinyFiles) - This package extends the functionality of shiny by providing an API for client side access to the server file system.
 * [shinyDND](https://github.com/ayayron/shinydnd) - shinyDND is an R package to create Shiny drag and drop elements in R.
 * [shinyforms](https://github.com/daattali/shinyforms) - Easily create questionnaire-type forms with Shiny.
-* [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny)
-* [shinyFeedback](https://github.com/merlinoa/shinyFeedback)
-* [shinycssloader](https://github.com/andrewsali/shinycssloaders)
-* [regexSelect](https://github.com/yonicd/regexSelect)
-* [rclipboard](https://github.com/sbihorel/rclipboard)
-* [directoryInput](https://github.com/wleepang/shiny-directory-input)
+* [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) - To insert interactive charts from ECharts into R Shiny applications
+* [shinyFeedback](https://github.com/merlinoa/shinyFeedback) - For displaying user feedback along side Shiny inputs
+* [shinycssloader](https://github.com/andrewsali/shinycssloaders) - Add CSS loader animations to Shiny outputs
+* [regexSelect](https://github.com/yonicd/regexSelect) - To enable regular expression searches within a shiny selectize object
+* [rclipboard](https://github.com/sbihorel/rclipboard) - clipboard.js for R/Shiny Applications
+* [directoryInput](https://github.com/wleepang/shiny-directory-input) - Widget for interactive selection of directories for RShiny Apps
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications
 * [shinysense](https://github.com/nstrayer/shinysense) - A series of shiny modules to help shiny sense the world around it.
 
