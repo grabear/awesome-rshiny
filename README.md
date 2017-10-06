@@ -46,7 +46,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
 * [RStudio Connect](https://www.rstudio.com/products/connect/)
 
-## Tutorials
+## Tutorials/Video
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
     * [RStartHere](https://github.com/rstudio/RStartHere)
 	* [Effective Reactive Programming – Part 1 & Part 2](https://www.rstudio.com/resources/videos/effective-reactive-programming/)
@@ -64,12 +64,6 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [R-Studio (Vimeo)](https://vimeo.com/rstudioinc)
 * [Abhinav Agrawal (YouTube)](https://www.youtube.com/playlist?list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
 * [AHmed HAsan (YouTube)](https://www.youtube.com/playlist?list=PLXiYeGj1hvHN5Nnu2VwRg_E-YMoc1vtan)
-* [Zev-Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
-* [Shiny Based Tablet or Desktop App](https://www.r-bloggers.com/shiny-based-tablet-or-desktop-app/)
-* [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
-* [I-BioStat - Tutorial in R-Shiny](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
-* [Neon Data Skills - RShiny basics](http://neondataskills.org/R/Create-Basic-Shiny-App-In-R)
-* [How to write web apps in R with Shiny](https://opensource.com/article/17/1/writing-new-web-apps-shiny)
 
 
 ## Articles/BlogPosts
@@ -84,6 +78,13 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Joe Cheng](https://medium.com/@joe.cheng)
 		* [Async programming in R and Shiny](https://medium.com/@joe.cheng/async-programming-in-r-and-shiny-ebe8c5010790)
 		* [An informal intro to async Shiny](https://medium.com/@joe.cheng/an-informal-intro-to-async-shiny-cbf01c85c4c5)
+* [Zev-Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
+* [Shiny Based Tablet or Desktop App](https://www.r-bloggers.com/shiny-based-tablet-or-desktop-app/)
+* [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+* [I-BioStat - Tutorial in R-Shiny](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
+* [Neon Data Skills - RShiny basics](http://neondataskills.org/R/Create-Basic-Shiny-App-In-R)
+* [How to write web apps in R with Shiny](https://opensource.com/article/17/1/writing-new-web-apps-shiny)
+		
 
 
 # Tools
