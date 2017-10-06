@@ -172,7 +172,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [MAVIS](https://github.com/kylehamilton/MAVIS) - MAVIS: Meta Analysis via Shiny.
 * [shinyTreeViewer](https://github.com/KlausVigo/shinyTreeViewer) - A simple treeviewer based on the R packages ape and phangorn.
 * [iTunes Reviews Analysis](https://github.com/amrrs/itunesr_webapp) - iTunes App Store Reviews Text Extractor and Text Analysis Web App
-----------
+
 
 # Contributors
 * [Rob Gilmore](https://github.com/grabear)
