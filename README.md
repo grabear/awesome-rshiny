@@ -19,9 +19,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 - [Examples](#examples)
 - [Contribution](#contribution)
 
-
-----------
-
+<br>
 # Resources
 
 ## General
