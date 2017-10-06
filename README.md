@@ -62,6 +62,17 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [Building Dashboards](https://www.rstudio.com/resources/videos/building-dashboards/)
 * [R-Studio (YouTube)](https://www.youtube.com/playlist?list=PL9HYL-VRX0oTAHdR62i2YaLNmJhFiiwaO)
 * [R-Studio (Vimeo)](https://vimeo.com/rstudioinc)
+* [Abhinav Agrawal (YouTube)](https://www.youtube.com/playlist?list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
+* [AHmed HAsan (YouTube)](https://www.youtube.com/playlist?list=PLXiYeGj1hvHN5Nnu2VwRg_E-YMoc1vtan)
+* [Zev-Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
+* [Shiny Based Tablet or Desktop App](https://www.r-bloggers.com/shiny-based-tablet-or-desktop-app/)
+* [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+* [I-BioStat - Tutorial in R-Shiny](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
+* [Neon Data Skills - RShiny basics](http://neondataskills.org/R/Create-Basic-Shiny-App-In-R)
+* [How to write web apps in R with Shiny](https://opensource.com/article/17/1/writing-new-web-apps-shiny)
+
+
+## Articles/BlogPosts
 * [Dean Attali](http://deanattali.com/)
 	* [Blog Post:  Building Shiny apps - an interactive tutorial](http://deanattali.com/blog/building-shiny-apps-tutorial/)
 	* [Blog Post:  Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
@@ -71,16 +82,8 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [Course: Stat545](http://stat545.com/)
 	* [Advanced-Shiny](https://github.com/daattali/advanced-shiny)
 * [Joe Cheng](https://medium.com/@joe.cheng)
-	* [Async programming in R and Shiny](https://medium.com/@joe.cheng/async-programming-in-r-and-shiny-ebe8c5010790)
-	* [An informal intro to async Shiny](https://medium.com/@joe.cheng/an-informal-intro-to-async-shiny-cbf01c85c4c5)
-* [Abhinav Agrawal (YouTube)](https://www.youtube.com/playlist?list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
-* [AHmed HAsan (YouTube)](https://www.youtube.com/playlist?list=PLXiYeGj1hvHN5Nnu2VwRg_E-YMoc1vtan)
-* [Zev-Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
-* [Shiny Based Tablet or Desktop App](https://www.r-bloggers.com/shiny-based-tablet-or-desktop-app/)
-* [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
-* [I-BioStat - Tutorial in R-Shiny](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
-* [Neon Data Skills - RShiny basics](http://neondataskills.org/R/Create-Basic-Shiny-App-In-R)
-* [How to write web apps in R with Shiny](https://opensource.com/article/17/1/writing-new-web-apps-shiny)
+		* [Async programming in R and Shiny](https://medium.com/@joe.cheng/async-programming-in-r-and-shiny-ebe8c5010790)
+		* [An informal intro to async Shiny](https://medium.com/@joe.cheng/an-informal-intro-to-async-shiny-cbf01c85c4c5)
 
 
 # Tools
