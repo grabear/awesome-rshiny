@@ -80,7 +80,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 * [I-BioStat - Tutorial in R-Shiny](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
 * [Neon Data Skills - RShiny basics](http://neondataskills.org/R/Create-Basic-Shiny-App-In-R)
-
+* [How to write web apps in R with Shiny](https://opensource.com/article/17/1/writing-new-web-apps-shiny)
 
 
 # Tools
