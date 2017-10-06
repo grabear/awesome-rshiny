@@ -172,6 +172,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [MAVIS](https://github.com/kylehamilton/MAVIS) - MAVIS: Meta Analysis via Shiny.
 * [shinyTreeViewer](https://github.com/KlausVigo/shinyTreeViewer) - A simple treeviewer based on the R packages ape and phangorn.
 * [iTunes Reviews Analysis](https://github.com/amrrs/itunesr_webapp) - iTunes App Store Reviews Text Extractor and Text Analysis Web App
+* [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking
 
 ----------
 
@@ -182,3 +183,4 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Dean Attali](https://github.com/daattali)
 * [Luke Singham](https://github.com/ucg8j)
 * [AbdulMajedRaja](https://www.github.com/amrrs)
+* [Leonardo Trimarchi](https://domthecodingcaveman.wordpress.com/)
