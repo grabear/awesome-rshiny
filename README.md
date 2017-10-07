@@ -179,3 +179,4 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Devin Pastoor](https://github.com/dpastoor)
 * [Dean Attali](https://github.com/daattali)
 * [Luke Singham](https://github.com/ucg8j)
+* [Aditya Bendapudi](https://www.linkedin.com/in/aditya-bendapudi-64147a101)
