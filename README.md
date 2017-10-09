@@ -112,7 +112,8 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [directoryInput](https://github.com/wleepang/shiny-directory-input) - Widget for interactive selection of directories for RShiny Apps
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications
 * [shinysense](https://github.com/nstrayer/shinysense) - A series of shiny modules to help shiny sense the world around it.
-
+* [awesome-r](https://awesome-r.com/) - A curated list of awesome R Packages and tools. Inspired by awesome-machine-learning.
+ 
 ## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
 * [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
@@ -174,11 +175,14 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking
 
 
+----------
+
+
 # Contributors
 * [Rob Gilmore](https://github.com/grabear)
 * [Shaurita Hutchins](https://github.com/sdhutchins)
 * [Devin Pastoor](https://github.com/dpastoor)
 * [Dean Attali](https://github.com/daattali)
 * [Luke Singham](https://github.com/ucg8j)
-* [AbdulMajedRaja](https://www.github.com/amrrs)
+* [Abdul Majed Raja](https://www.github.com/amrrs)
 * [Leonardo Trimarchi](https://domthecodingcaveman.wordpress.com/)
