@@ -133,8 +133,8 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
 * [ggvis](https://github.com/rstudio/ggvis) - The goal of ggvis is to make it easy to describe interactive web graphics in R
-* [RInno](https://github.com/ficonsulting/RInno)
-* [googleVis](https://github.com/mages/googleVis)
+* [RInno](https://github.com/ficonsulting/RInno) - Install local shiny apps by providing an interface between R and Inno Setup, (Windows Only)
+* [googleVis](https://github.com/mages/googleVis) - An interface between R and the [Google's charts tools](https://developers.google.com/chart/).
 
 # People
 * [Dean Attali](https://github.com/daattali)
