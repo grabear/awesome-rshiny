@@ -183,3 +183,4 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Luke Singham](https://github.com/ucg8j)
 * [AbdulMajedRaja](https://www.github.com/amrrs)
 * [Leonardo Trimarchi](https://domthecodingcaveman.wordpress.com/)
+* [Kshitiz Khanal](http://twitter.com/kshitizkhanal7)
