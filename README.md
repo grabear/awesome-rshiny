@@ -37,6 +37,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [StackOverflow Questions](http://stackoverflow.com/questions/tagged/shiny)
 * [R-bloggers](http://www.r-bloggers.com/search/shiny)
 * [Google Group](https://groups.google.com/forum/#!forum/shiny-discuss)
+* [RStudio Community](https://community.rstudio.com/c/shiny) 
 * [rOpenSci](https://ropensci.org/)
 
 ## Services
