@@ -39,7 +39,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Google Group](https://groups.google.com/forum/#!forum/shiny-discuss)
 * [RStudio Community](https://community.rstudio.com/c/shiny) 
 * [rOpenSci](https://ropensci.org/)
-* [Sub-Reddit](https://www.reddit.com/r/rshiny/)
+* [R-Shiny on Reddit](https://www.reddit.com/r/rshiny/)
 
 ## Services
 * [R-Studio Server](https://www.rstudio.com/products/rstudio/download-server/)
