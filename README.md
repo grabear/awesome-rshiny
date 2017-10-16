@@ -1,4 +1,6 @@
-# Awesome R Shiny [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome R Shiny 
+ 
+ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for R Shiny.  This awesome list was inspired by https://github.com/dpastoor/awesome-shiny.
 
@@ -17,8 +19,6 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 - [Examples](#examples)
 - [Contribution](#contribution)
 
-
-----------
 
 # Resources
 
@@ -78,7 +78,9 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Zev-Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
 * [Shiny Based Tablet or Desktop App](https://www.r-bloggers.com/shiny-based-tablet-or-desktop-app/)
 * [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
-
+* [I-BioStat - Tutorial in R-Shiny](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
+* [Neon Data Skills - RShiny basics](http://neondataskills.org/R/Create-Basic-Shiny-App-In-R)
+* [How to write web apps in R with Shiny](https://opensource.com/article/17/1/writing-new-web-apps-shiny)
 
 
 # Tools
@@ -169,12 +171,14 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [MAVIS](https://github.com/kylehamilton/MAVIS) - MAVIS: Meta Analysis via Shiny.
 * [shinyTreeViewer](https://github.com/KlausVigo/shinyTreeViewer) - A simple treeviewer based on the R packages ape and phangorn.
 * [iTunes Reviews Analysis](https://github.com/amrrs/itunesr_webapp) - iTunes App Store Reviews Text Extractor and Text Analysis Web App
-----------
+* [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking
+
 
 # Contributors
 * [Rob Gilmore](https://github.com/grabear)
-* [S. Hutchins](https://github.com/sdhutchins)
+* [Shaurita Hutchins](https://github.com/sdhutchins)
 * [Devin Pastoor](https://github.com/dpastoor)
 * [Dean Attali](https://github.com/daattali)
 * [Luke Singham](https://github.com/ucg8j)
 * [AbdulMajedRaja](https://www.github.com/amrrs)
+* [Leonardo Trimarchi](https://domthecodingcaveman.wordpress.com/)
