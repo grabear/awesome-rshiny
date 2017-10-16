@@ -81,6 +81,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [I-BioStat - Tutorial in R-Shiny](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
 * [Neon Data Skills - RShiny basics](http://neondataskills.org/R/Create-Basic-Shiny-App-In-R)
 * [How to write web apps in R with Shiny](https://opensource.com/article/17/1/writing-new-web-apps-shiny)
+* [Deploying Shiny as a Portable Desktop App](http://oddhypothesis.blogspot.com/2014/04/deploying-self-contained-r-apps-to.html)
 
 
 # Tools
