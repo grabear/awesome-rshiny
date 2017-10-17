@@ -41,12 +41,15 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [rOpenSci](https://ropensci.org/)
 * [R-Shiny on Reddit](https://www.reddit.com/r/rshiny/)
 
-## Services
-* [R-Studio Server](https://www.rstudio.com/products/rstudio/download-server/)
-* [Shiny Server](https://github.com/rstudio/shiny-server)
-* [ShinyApps.io](http://www.shinyapps.io/)
-* [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
-* [RStudio Connect](https://www.rstudio.com/products/connect/)
+## Deployment
+### Self Hosting
+* [Shiny Server](https://github.com/rstudio/shiny-server) - Back end software that builds a web server for shiny apps.
+* [RStudio Connect](https://www.rstudio.com/products/connect/) - Back end software for hosing shiny applications, Rmarkdown... plus other features for enterprise contexts.
+* [Shinyproxy](https://www.shinyproxy.io/) - Uses docker containers for hosting shiny apps and a Java server control and proxy traffic to the app containers. [How-to Blog](http://lukesingham.com/shiny-containers-with-shinyproxy/).
+
+### Platform As A Service (PAAS)
+* [ShinyApps.io](http://www.shinyapps.io/) - Rstudio's PAAS specifically for hosting shiny apps.
+* [Heruku](https://www.heroku.com) - A general cloud application platform that can be utilised by shiny apps with these [buildpack scripts](https://github.com/virtualstaticvoid/heroku-buildpack-r/tree/heroku-16).
 
 ## Tutorials
 * [The R-Podcast](https://r-podcast.org/)
@@ -77,6 +80,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [Blog Post:  How to get your very own RStudio Server and Shiny Server with DigitalOcean](http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
 	* [Blog Post: Mimicking a Google Form with a shiny app](http://deanattali.com/2015/06/14/mimicking-google-form-shiny/)
 	* [Blog post: Persistent data storage (and retrieval) in Shiny apps](http://deanattali.com/blog/shiny-persistent-data-storage/)
+	* [Blog post: How to set-up shiny server on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
 	* [Course: Stat545](http://stat545.com/)
 	* [Advanced-Shiny](https://github.com/daattali/advanced-shiny)
 * [Joe Cheng](https://medium.com/@joe.cheng)
