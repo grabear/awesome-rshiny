@@ -4,6 +4,8 @@
 
 A curated list of resources for R Shiny.  This awesome list was inspired by https://github.com/dpastoor/awesome-shiny.
 
+### This list is currently featured on [Awesome-R](https://awesome-r.com/)!!
+
 - [Resources](#resources)
     - [General](#general)
     - [Community](#community)
@@ -126,7 +128,6 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [directoryInput](https://github.com/wleepang/shiny-directory-input) - Widget for interactive selection of directories for RShiny Apps
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications
 * [shinysense](https://github.com/nstrayer/shinysense) - A series of shiny modules to help shiny sense the world around it.
-* [awesome-r](https://awesome-r.com/) - A curated list of awesome R Packages and tools. Inspired by awesome-machine-learning.
  
 ## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
