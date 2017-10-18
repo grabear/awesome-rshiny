@@ -37,16 +37,28 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [StackOverflow Questions](http://stackoverflow.com/questions/tagged/shiny)
 * [R-bloggers](http://www.r-bloggers.com/search/shiny)
 * [Google Group](https://groups.google.com/forum/#!forum/shiny-discuss)
+* [RStudio Community](https://community.rstudio.com/c/shiny) 
 * [rOpenSci](https://ropensci.org/)
+* [R-Shiny on Reddit](https://www.reddit.com/r/rshiny/)
 
-## Services
-* [R-Studio Server](https://www.rstudio.com/products/rstudio/download-server/)
-* [Shiny Server](https://github.com/rstudio/shiny-server)
-* [ShinyApps.io](http://www.shinyapps.io/)
-* [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
-* [RStudio Connect](https://www.rstudio.com/products/connect/)
+## Deployment
+### Self Hosting
+* [Shiny Server](https://github.com/rstudio/shiny-server) - Back end software that builds a web server for shiny apps.
+* [RStudio Connect](https://www.rstudio.com/products/connect/) - Back end software for hosing shiny applications, Rmarkdown... plus other features for enterprise contexts.
+* [Shinyproxy](https://www.shinyproxy.io/) - Uses docker containers for hosting shiny apps and a Java server control and proxy traffic to the app containers. [How-to Blog](http://lukesingham.com/shiny-containers-with-shinyproxy/).
+
+### Platform As A Service (PAAS)
+* [ShinyApps.io](http://www.shinyapps.io/) - Rstudio's PAAS specifically for hosting shiny apps.
+* [Heruku](https://www.heroku.com) - A general cloud application platform that can be utilised by shiny apps with these [buildpack scripts](https://github.com/virtualstaticvoid/heroku-buildpack-r/tree/heroku-16).
 
 ## Tutorials
+* [The R-Podcast](https://r-podcast.org/)
+    * [Episode 15: Introduction to Shiny](https://r-podcast.org/episode/15-introduction-to-shiny/)
+    * [Episode 16: Interview with Dean Attali](https://r-podcast.org/episode/16-interview-with-dean-attali/)
+    * [Episode 17: A simply Radiant Chat with Vincent Nijs](https://r-podcast.org/episode/17-a-simply-radiant-chat-with-vincent-nijs/)
+    * [Episode 18: Interviews with the R-Studio Team](https://r-podcast.org/episode/18-interviews-with-the-rstudio-team/)
+    * [Episode 19: Talking Shiny at R-Studio Conf wiht Barabara Borges and Dean Attali](https://r-podcast.org/episode/19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali/)
+    * [Episode 21: Talking Rcpp and More with Dirk Eddelbuettel](https://r-podcast.org/episode/21-talking-rcpp-and-more-with-dirk-eddelbuettel/)
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
     * [RStartHere](https://github.com/rstudio/RStartHere)
 	* [Effective Reactive Programming – Part 1 & Part 2](https://www.rstudio.com/resources/videos/effective-reactive-programming/)
@@ -68,6 +80,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [Blog Post:  How to get your very own RStudio Server and Shiny Server with DigitalOcean](http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
 	* [Blog Post: Mimicking a Google Form with a shiny app](http://deanattali.com/2015/06/14/mimicking-google-form-shiny/)
 	* [Blog post: Persistent data storage (and retrieval) in Shiny apps](http://deanattali.com/blog/shiny-persistent-data-storage/)
+	* [Blog post: How to set-up shiny server on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
 	* [Course: Stat545](http://stat545.com/)
 	* [Advanced-Shiny](https://github.com/daattali/advanced-shiny)
 * [Joe Cheng](https://medium.com/@joe.cheng)
@@ -81,6 +94,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [I-BioStat - Tutorial in R-Shiny](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
 * [Neon Data Skills - RShiny basics](http://neondataskills.org/R/Create-Basic-Shiny-App-In-R)
 * [How to write web apps in R with Shiny](https://opensource.com/article/17/1/writing-new-web-apps-shiny)
+* [Deploying Shiny as a Portable Desktop App](http://oddhypothesis.blogspot.com/2014/04/deploying-self-contained-r-apps-to.html)
 
 
 # Tools
@@ -112,7 +126,8 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [directoryInput](https://github.com/wleepang/shiny-directory-input) - Widget for interactive selection of directories for RShiny Apps
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications
 * [shinysense](https://github.com/nstrayer/shinysense) - A series of shiny modules to help shiny sense the world around it.
-
+* [awesome-r](https://awesome-r.com/) - A curated list of awesome R Packages and tools. Inspired by awesome-machine-learning.
+ 
 ## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
 * [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
@@ -132,8 +147,8 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
 * [ggvis](https://github.com/rstudio/ggvis) - The goal of ggvis is to make it easy to describe interactive web graphics in R
-* [RInno](https://github.com/ficonsulting/RInno)
-* [googleVis](https://github.com/mages/googleVis)
+* [RInno](https://github.com/ficonsulting/RInno) - Install local shiny apps by providing an interface between R and Inno Setup, (Windows Only)
+* [googleVis](https://github.com/mages/googleVis) - An interface between R and the [Google's charts tools](https://developers.google.com/chart/).
 
 # People
 * [Dean Attali](https://github.com/daattali)
@@ -174,11 +189,15 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking
 
 
+----------
+
+
 # Contributors
 * [Rob Gilmore](https://github.com/grabear)
 * [Shaurita Hutchins](https://github.com/sdhutchins)
 * [Devin Pastoor](https://github.com/dpastoor)
 * [Dean Attali](https://github.com/daattali)
 * [Luke Singham](https://github.com/ucg8j)
-* [AbdulMajedRaja](https://www.github.com/amrrs)
+* [Abdul Majed Raja](https://www.github.com/amrrs)
 * [Leonardo Trimarchi](https://domthecodingcaveman.wordpress.com/)
+* [Kshitiz Khanal](http://twitter.com/kshitizkhanal7)
