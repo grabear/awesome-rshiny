@@ -40,6 +40,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [RStudio Community](https://community.rstudio.com/c/shiny) 
 * [rOpenSci](https://ropensci.org/)
 * [R-Shiny on Reddit](https://www.reddit.com/r/rshiny/)
+* [RGov - Government network for R/Shiny](https://rdotgov.wordpress.com/deploy-shiny/)
 
 ## Deployment
 ### Self Hosting
