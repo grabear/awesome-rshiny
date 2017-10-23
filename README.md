@@ -1,8 +1,4 @@
-# Awesome R Shiny 
-
-[![Join the chat at https://gitter.im/awesome-rshiny/Lobby](https://badges.gitter.im/awesome-rshiny/Lobby.svg)](https://gitter.im/awesome-rshiny/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
- 
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome R Shiny [![Join the chat at https://gitter.im/awesome-rshiny/Lobby](https://badges.gitter.im/awesome-rshiny/Lobby.svg)](https://gitter.im/awesome-rshiny/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for R Shiny.  This awesome list was inspired by https://github.com/dpastoor/awesome-shiny.
 
@@ -44,6 +40,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [RStudio Community](https://community.rstudio.com/c/shiny) 
 * [rOpenSci](https://ropensci.org/)
 * [R-Shiny on Reddit](https://www.reddit.com/r/rshiny/)
+* [RGov - Government network for R/Shiny](https://rdotgov.wordpress.com/deploy-shiny/)
 
 ## Deployment
 ### Self Hosting
@@ -190,7 +187,10 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [shinyTreeViewer](https://github.com/KlausVigo/shinyTreeViewer) - A simple treeviewer based on the R packages ape and phangorn.
 * [iTunes Reviews Analysis](https://github.com/amrrs/itunesr_webapp) - iTunes App Store Reviews Text Extractor and Text Analysis Web App
 * [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking
-* [Lights Out game] (https://daattali.com/shiny/lightsout/) - Lights Out is a puzzle game consisting of a grid of lights that are either on or off
+* [Lights Out game](https://daattali.com/shiny/lightsout/) - Lights Out is a puzzle game consisting of a grid of lights that are either on or off
+* Australian Tax Office:
+	* [Workforce Demographics](https://atogov.shinyapps.io/workforcedmgs/) - View a range of workforce related demographics information across an organisation. [Source Code](https://github.com/atogov/workforceDmgs).
+	* [Bivariate Demographics](https://atogov.shinyapps.io/bivariatedmgs/) - Examine how an organisation is performing on a range of demographic information. [Source Code](https://github.com/atogov/bivariateDmgs).
 
 
 ----------
