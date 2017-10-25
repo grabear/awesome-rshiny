@@ -54,12 +54,12 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 ## Tutorials
 * [The R-Podcast](https://r-podcast.org/)
-    * [Episode 15: Introduction to Shiny](https://r-podcast.org/episode/15-introduction-to-shiny/)
-    * [Episode 16: Interview with Dean Attali](https://r-podcast.org/episode/16-interview-with-dean-attali/)
-    * [Episode 17: A simply Radiant Chat with Vincent Nijs](https://r-podcast.org/episode/17-a-simply-radiant-chat-with-vincent-nijs/)
-    * [Episode 18: Interviews with the R-Studio Team](https://r-podcast.org/episode/18-interviews-with-the-rstudio-team/)
+    * [Episode 15: Introduction to Shiny](https://r-podcast.org/episode/015-introduction-to-shiny/)
+    * [Episode 16: Interview with Dean Attali](https://r-podcast.org/episode/016-interview-with-dean-attali/)
+    * [Episode 17: A simply Radiant Chat with Vincent Nijs](https://r-podcast.org/episode/017-a-simply-radiant-chat-with-vincent-nijs/)
+    * [Episode 18: Interviews with the R-Studio Team](https://r-podcast.org/episode/018-interviews-with-the-rstudio-team/)
     * [Episode 19: Talking Shiny at R-Studio Conf wiht Barabara Borges and Dean Attali](https://r-podcast.org/episode/019-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali/)
-    * [Episode 21: Talking Rcpp and More with Dirk Eddelbuettel](https://r-podcast.org/episode/21-talking-rcpp-and-more-with-dirk-eddelbuettel/)
+    * [Episode 21: Talking Rcpp and More with Dirk Eddelbuettel](https://r-podcast.org/episode/021-talking-rcpp-and-more-with-dirk-eddelbuettel/)
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
     * [RStartHere](https://github.com/rstudio/RStartHere)
 	* [Effective Reactive Programming – Part 1 & Part 2](https://www.rstudio.com/resources/videos/effective-reactive-programming/)
