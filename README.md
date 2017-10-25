@@ -97,6 +97,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [How to write web apps in R with Shiny](https://opensource.com/article/17/1/writing-new-web-apps-shiny)
 * [Deploying Shiny as a Portable Desktop App](http://oddhypothesis.blogspot.com/2014/04/deploying-self-contained-r-apps-to.html)
 * [CI/CD with Shiny and Kubernetes](https://blog.kublr.com/delivering-data-science-for-the-enterprise-with-shiny-r-in-kubernetes-8430c88d1b52)
+* [Shiny Server on Docker: CentOS 7 Edition](http://www.datascienceriot.com/r/shiny-docker/)
 
 # Tools
 
