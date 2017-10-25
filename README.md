@@ -54,12 +54,12 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 ## Tutorials
 * [The R-Podcast](https://r-podcast.org/)
-    * [Episode 15: Introduction to Shiny](https://r-podcast.org/episode/15-introduction-to-shiny/)
-    * [Episode 16: Interview with Dean Attali](https://r-podcast.org/episode/16-interview-with-dean-attali/)
-    * [Episode 17: A simply Radiant Chat with Vincent Nijs](https://r-podcast.org/episode/17-a-simply-radiant-chat-with-vincent-nijs/)
-    * [Episode 18: Interviews with the R-Studio Team](https://r-podcast.org/episode/18-interviews-with-the-rstudio-team/)
-    * [Episode 19: Talking Shiny at R-Studio Conf wiht Barabara Borges and Dean Attali](https://r-podcast.org/episode/19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali/)
-    * [Episode 21: Talking Rcpp and More with Dirk Eddelbuettel](https://r-podcast.org/episode/21-talking-rcpp-and-more-with-dirk-eddelbuettel/)
+    * [Episode 15: Introduction to Shiny](https://r-podcast.org/episode/015-introduction-to-shiny/)
+    * [Episode 16: Interview with Dean Attali](https://r-podcast.org/episode/016-interview-with-dean-attali/)
+    * [Episode 17: A simply Radiant Chat with Vincent Nijs](https://r-podcast.org/episode/017-a-simply-radiant-chat-with-vincent-nijs/)
+    * [Episode 18: Interviews with the R-Studio Team](https://r-podcast.org/episode/018-interviews-with-the-rstudio-team/)
+    * [Episode 19: Talking Shiny at R-Studio Conf wiht Barabara Borges and Dean Attali](https://r-podcast.org/episode/019-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali/)
+    * [Episode 21: Talking Rcpp and More with Dirk Eddelbuettel](https://r-podcast.org/episode/021-talking-rcpp-and-more-with-dirk-eddelbuettel/)
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
     * [RStartHere](https://github.com/rstudio/RStartHere)
 	* [Effective Reactive Programming – Part 1 & Part 2](https://www.rstudio.com/resources/videos/effective-reactive-programming/)
@@ -96,7 +96,8 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Neon Data Skills - RShiny basics](http://neondataskills.org/R/Create-Basic-Shiny-App-In-R)
 * [How to write web apps in R with Shiny](https://opensource.com/article/17/1/writing-new-web-apps-shiny)
 * [Deploying Shiny as a Portable Desktop App](http://oddhypothesis.blogspot.com/2014/04/deploying-self-contained-r-apps-to.html)
-
+* [CI/CD with Shiny and Kubernetes](https://blog.kublr.com/delivering-data-science-for-the-enterprise-with-shiny-r-in-kubernetes-8430c88d1b52)
+* [Shiny Server on Docker: CentOS 7 Edition](http://www.datascienceriot.com/r/shiny-docker/)
 
 # Tools
 
@@ -191,7 +192,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * Australian Tax Office:
 	* [Workforce Demographics](https://atogov.shinyapps.io/workforcedmgs/) - View a range of workforce related demographics information across an organisation. [Source Code](https://github.com/atogov/workforceDmgs).
 	* [Bivariate Demographics](https://atogov.shinyapps.io/bivariatedmgs/) - Examine how an organisation is performing on a range of demographic information. [Source Code](https://github.com/atogov/bivariateDmgs).
-
+* [Shiny Database App (CRUD)](https://ipub.com/dev-corner/apps/shiny_crud01/) - An example of a [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) shiny app with [accompanying how-to post](https://ipub.com/shiny-crud-app/).
 
 ----------
 
