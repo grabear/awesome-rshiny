@@ -7,17 +7,16 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 - [Resources](#resources)
     - [General](#general)
     - [Community](#community)
-    - [Services](#services)
+    - [Deployment](#deployment)
     - [Tutorials](#tutorials)
 - [Tools](#tools)
-    - [Boilerplates](#boilerplates)
-    - [Libraries](#libraries)
+    - [Packages](#packages)
     - [Integrations](#integrations)
 - [People](#people)
 - [Books](#books)
 - [Galleries](#galleries)
-- [Examples](#examples)
-- [Contribution](#contribution)
+- [App Examples](#app-Examples)
+- [Contributors](#contributors)
 
 
 # Resources
