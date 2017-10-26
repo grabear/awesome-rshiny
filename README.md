@@ -1,5 +1,5 @@
 # Awesome R Shiny [![Join the chat at https://gitter.im/awesome-rshiny/Lobby](https://badges.gitter.im/awesome-rshiny/Lobby.svg)](https://gitter.im/awesome-rshiny/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+[<img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" align="right" width="100">](https://www.rstudio.com)
 A curated list of resources for R Shiny.  This awesome list was inspired by https://github.com/dpastoor/awesome-shiny.
 
 ### This list is currently featured on [Awesome-R](https://awesome-r.com/)!!
@@ -7,17 +7,16 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 - [Resources](#resources)
     - [General](#general)
     - [Community](#community)
-    - [Services](#services)
+    - [Deployment](#deployment)
     - [Tutorials](#tutorials)
 - [Tools](#tools)
-    - [Boilerplates](#boilerplates)
-    - [Libraries](#libraries)
+    - [Packages](#packages)
     - [Integrations](#integrations)
 - [People](#people)
 - [Books](#books)
 - [Galleries](#galleries)
-- [Examples](#examples)
-- [Contribution](#contribution)
+- [App Examples](#app-Examples)
+- [Contributors](#contributors)
 
 
 # Resources
