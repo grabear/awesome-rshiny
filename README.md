@@ -173,21 +173,21 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [R-Studio Examples](https://github.com/rstudio/shiny-examples)
 * [Waze](https://www.rstudio.com/resources/customer-spotlight/waze_story/) - Community based real-time traffic and navigation info.
 * [Astra Zenca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
-* [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - traveling salesman app.
-* [shinyEd](https://github.com/ShinyEd/ShinyEd) - statistics education apps.
-* [shinyData](https://github.com/yindeng/shinyData) - interactive data analysis and visualization.
-* [STARTapp](https://github.com/jminnier/STARTapp) - R Shiny Transcriptome Analysis Resource Tool.
-* [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) - an interactive web application that provides a graphical user interface to the microbiome analysis package for R, called phyloseq.
-* [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL.
-* [BallR](https://github.com/toddwschneider/ballr) - BallR uses the NBA Stats API to visualize every shot taken by a player during an NBA season dating back to 1996.
-* [DDCV](https://github.com/xtmgah/DDCV) - A shiny app to evaluate drug-drug interactions.
-* [Github: Hot or Not](https://github.com/wsurles/github_hot_or_not) - A Shiny App that analyzes what repos are hot on github.
-* [GenMap-Comparator](https://github.com/holtzy/GenMap-Comparator) - An application to compare genetic maps with D3 & Shiny.
+* [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - Traveling salesman app.
+* [shinyEd](https://github.com/ShinyEd/ShinyEd) - Statistics education apps.
+* [shinyData](https://github.com/yindeng/shinyData) - Interactive data analysis and visualization.
+* [STARTapp](https://github.com/jminnier/STARTapp) - Transcriptome Analysis Resource Tool.
+* [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) - Provides a graphical user interface to the microbiome analysis package for R, called phyloseq.
+* [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - Demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL.
+* [BallR](https://github.com/toddwschneider/ballr) - Uses the NBA Stats API to visualize every shot taken by a player during an NBA season dating back to 1996.
+* [DDCV](https://github.com/xtmgah/DDCV) - Evaluate drug-drug interactions.
+* [Github: Hot or Not](https://github.com/wsurles/github_hot_or_not) - Analyzes what repos are hot on github.
+* [GenMap-Comparator](https://github.com/holtzy/GenMap-Comparator) - Compare genetic maps with D3 & Shiny.
 * [MAVIS](https://github.com/kylehamilton/MAVIS) - MAVIS: Meta Analysis via Shiny.
-* [shinyTreeViewer](https://github.com/KlausVigo/shinyTreeViewer) - A simple treeviewer based on the R packages ape and phangorn.
-* [iTunes Reviews Analysis](https://github.com/amrrs/itunesr_webapp) - iTunes App Store Reviews Text Extractor and Text Analysis Web App
-* [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking
-* [Lights Out game](https://daattali.com/shiny/lightsout/) - Lights Out is a puzzle game consisting of a grid of lights that are either on or off
+* [shinyTreeViewer](https://github.com/KlausVigo/shinyTreeViewer) - Simple treeviewer based on the R packages ape and phangorn.
+* [iTunes Reviews Analysis](https://github.com/amrrs/itunesr_webapp) - iTunes App Store Reviews Text Extractor and Text Analysis Web App.
+* [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking.
+* [Lights Out game](https://daattali.com/shiny/lightsout/) - Lights Out is a puzzle game consisting of a grid of lights that are either on or off.
 * Australian Tax Office:
 	* [Workforce Demographics](https://atogov.shinyapps.io/workforcedmgs/) - View a range of workforce related demographics information across an organisation. [Source Code](https://github.com/atogov/workforceDmgs).
 	* [Bivariate Demographics](https://atogov.shinyapps.io/bivariatedmgs/) - Examine how an organisation is performing on a range of demographic information. [Source Code](https://github.com/atogov/bivariateDmgs).
