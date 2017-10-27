@@ -131,23 +131,23 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 ## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
 * [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
-	* [DT](https://github.com/rstudio/DT) - This package provides a function datatable() to display R data via the DataTables javascript library.
-	* [leaflet](http://rstudio.github.io/leaflet/shiny.html) - Leaflet is a JavaScript library for creating dynamic maps that support panning and zooming along with various annotations like markers, polygons, and popups.
-	* [d3heatmap](https://github.com/rstudio/d3heatmap) - This is an R package that implements a heatmap htmlwidget.
-	* [dygraphs](https://github.com/rstudio/dygraphs) - The dygraphs package is an R interface to the dygraphs JavaScript charting library. It provides rich facilites for charting time-series data in R.
-	* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - A tool for creating diagrams and flowcharts using Graphviz and Mermaid.
-	* [MetricsGraphics](https://github.com/hrbrmstr/metricsgraphics) - MetricsGraphics enables easy creation of D3 scatterplots, line charts, and histograms.
+	* [DT](https://github.com/rstudio/DT) - Provides a function `datatable()` to display R data via the DataTables javascript library.
+	* [leaflet](http://rstudio.github.io/leaflet/shiny.html) - JavaScript library for creating dynamic maps that support panning and zooming along with various annotations like markers, polygons, and popups.
+	* [d3heatmap](https://github.com/rstudio/d3heatmap) - Implements a D3 heatmap htmlwidget.
+	* [dygraphs](https://github.com/rstudio/dygraphs) - R interface to the dygraphs JavaScript charting library. It provides rich facilites for charting time-series data in R.
+	* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Tool for creating diagrams and flowcharts using Graphviz and Mermaid.
+	* [MetricsGraphics](https://github.com/hrbrmstr/metricsgraphics) - Enables easy creation of D3 scatterplots, line charts, and histograms.
 	* [networkD3](https://github.com/christophergandrud/networkD3) - Graph data visualization with D3.
 	* [rthreejs](https://github.com/bwlewis/rthreejs) - 3D scatterplots and globes.
-	* [rbokeh](http://hafen.github.io/rbokeh/) - An interface to Bokeh that provides a flexible, powerful, declarative framework for creating interactive plots.
-	* [plotly](https://github.com/ropensci/plotly) - Plotly allows you to easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
+	* [rbokeh](http://hafen.github.io/rbokeh/) - Interface to Bokeh that provides a flexible, powerful, declarative framework for creating interactive plots.
+	* [plotly](https://github.com/ropensci/plotly) - Easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
 	* [formattable](https://renkun.me/formattable/) - This package is designed for applying formatting on vectors and data frames to make data presentation easier, richer, more flexible and hopefully convey more information.
 	* [Gallery of HTML Widgets](http://gallery.htmlwidgets.org/) - Gallery of all R htmlwidgets.
 	* [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget)
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
-* [ggvis](https://github.com/rstudio/ggvis) - The goal of ggvis is to make it easy to describe interactive web graphics in R
-* [RInno](https://github.com/ficonsulting/RInno) - Install local shiny apps by providing an interface between R and Inno Setup, (Windows Only)
+* [ggvis](https://github.com/rstudio/ggvis) - Make it easy to describe interactive web graphics in R.
+* [RInno](https://github.com/ficonsulting/RInno) - Install local shiny apps by providing an interface between R and Inno Setup, (Windows Only).
 * [googleVis](https://github.com/mages/googleVis) - An interface between R and the [Google's charts tools](https://developers.google.com/chart/).
 
 # People
