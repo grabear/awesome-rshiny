@@ -49,7 +49,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 ### Platform As A Service (PAAS)
 * [ShinyApps.io](http://www.shinyapps.io/) - Rstudio's PAAS specifically for hosting shiny apps.
-* [Heruku](https://www.heroku.com) - A general cloud application platform that can be utilised by shiny apps with these [buildpack scripts](https://github.com/virtualstaticvoid/heroku-buildpack-r/tree/heroku-16).
+* [Heruku](https://www.heroku.com) - General cloud application platform that can be utilised by shiny apps with these [buildpack scripts](https://github.com/virtualstaticvoid/heroku-buildpack-r/tree/heroku-16).
 
 ## Tutorials
 * [The R-Podcast](https://r-podcast.org/)
