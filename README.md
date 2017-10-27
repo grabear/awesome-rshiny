@@ -166,8 +166,8 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 # Galleries
 * [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/)
-* [Rstudio's shiny gallery](https://shiny.rstudio.com/gallery/)
-* [showmeshiny](http://www.showmeshiny.com/) - a huge gallery of Shiny apps.
+* [Rstudio's Shiny gallery](https://shiny.rstudio.com/gallery/)
+* [showmeshiny](http://www.showmeshiny.com/) - Huge gallery of Shiny apps.
 
 # App Examples
 * [R-Studio Examples](https://github.com/rstudio/shiny-examples)
