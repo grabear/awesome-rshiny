@@ -195,6 +195,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [taskviewr](https://bearloga.shinyapps.io/taskviewr/) - A Shiny app for browsing R packages by CRAN Task Views and license info.
 * [homebrewR](https://davesteps.shinyapps.io/homebrewR/) - An app to explore and compare beer recipes.
 * [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - A Shiny app for Discogs users to visualise and explore their record collections.
+* [polMonitor](https://ewenme.shinyapps.io/polMonitor/) - A Shiny app for monitoring police violence in the United States.
 
 # Contributors
 * [Rob Gilmore](https://github.com/grabear)
