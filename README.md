@@ -102,9 +102,9 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 ## Packages
 * [R-Studio]()
-	* [shinydashboard](https://github.com/rstudio/shinydashboard)
-	* [shinythemes](https://github.com/rstudio/shinythemes)
-	* [shinygadgets](https://github.com/rstudio/shinygadgets)
+	* [shinydashboard](https://github.com/rstudio/shinydashboard) - A package that makes it easy to use Shiny to create dashboards.
+	* [shinythemes](https://github.com/rstudio/shinythemes) - A package that provides some Bootstrap themes for use with Shiny.
+	* [shinygadgets](https://github.com/rstudio/shinygadgets) - A package for R that helps you create interactive tools based on the Shiny web framework, that assist in data analysis tasks.
 * [shinyAce](https://github.com/trestletech/shinyAce) - Integrate ace editor with shiny.
 * [shinyBS](https://github.com/ebailey78/shinyBS) - Twitter Bootstrap Components for Shiny.
 * [shinyjs](https://github.com/daattali/shinyjs) - Common javascript operations in shiny via R code.
