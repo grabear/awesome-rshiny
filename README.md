@@ -193,9 +193,6 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [Bivariate Demographics](https://atogov.shinyapps.io/bivariatedmgs/) - Examine how an organisation is performing on a range of demographic information. [Source Code](https://github.com/atogov/bivariateDmgs).
 * [Shiny Database App (CRUD)](https://ipub.com/dev-corner/apps/shiny_crud01/) - An example of a [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) shiny app with [accompanying how-to post](https://ipub.com/shiny-crud-app/).
 
-----------
-
-
 # Contributors
 * [Rob Gilmore](https://github.com/grabear)
 * [Shaurita Hutchins](https://github.com/sdhutchins)
