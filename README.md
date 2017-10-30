@@ -194,7 +194,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Shiny Database App (CRUD)](https://ipub.com/dev-corner/apps/shiny_crud01/) - An example of a [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) shiny app with [accompanying how-to post](https://ipub.com/shiny-crud-app/).
 * [taskviewr](https://bearloga.shinyapps.io/taskviewr/) - A Shiny app for browsing R packages by CRAN Task Views and license info.
 * [homebrewR](https://davesteps.shinyapps.io/homebrewR/) - An app to explore and compare beer recipes.
-* [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - A Shiny app for Discogs users to visualise and explore their record collections.
+* [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - A Shiny app for Discogs users to visualize and explore their record collections.
 * [polMonitor](https://ewenme.shinyapps.io/polMonitor/) - A Shiny app for monitoring police violence in the United States.
 
 # Contributors
