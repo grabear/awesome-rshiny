@@ -49,7 +49,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 
 ### Platform As A Service (PAAS)
 * [ShinyApps.io](http://www.shinyapps.io/) - Rstudio's PAAS specifically for hosting shiny apps.
-* [Heruku](https://www.heroku.com) - General cloud application platform that can be utilised by shiny apps with these [buildpack scripts](https://github.com/virtualstaticvoid/heroku-buildpack-r/tree/heroku-16).
+* [Heroku](https://www.heroku.com) - General cloud application platform that can be utilised by shiny apps with these [buildpack scripts](https://github.com/virtualstaticvoid/heroku-buildpack-r/tree/heroku-16).
 
 ## Tutorials
 * [The R-Podcast](https://r-podcast.org/)
@@ -97,14 +97,15 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Deploying Shiny as a Portable Desktop App](http://oddhypothesis.blogspot.com/2014/04/deploying-self-contained-r-apps-to.html)
 * [CI/CD with Shiny and Kubernetes](https://blog.kublr.com/delivering-data-science-for-the-enterprise-with-shiny-r-in-kubernetes-8430c88d1b52)
 * [Shiny Server on Docker: CentOS 7 Edition](http://www.datascienceriot.com/r/shiny-docker/)
+* [Use Docker to distribute and run Shiny apps](https://wabi-wiki.scilifelab.se/display/KB/Use+Docker+to+distribute+and+run+Shiny+apps)
 
 # Tools
 
 ## Packages
 * [R-Studio]()
-	* [shinydashboard](https://github.com/rstudio/shinydashboard)
-	* [shinythemes](https://github.com/rstudio/shinythemes)
-	* [shinygadgets](https://github.com/rstudio/shinygadgets)
+	* [shinydashboard](https://github.com/rstudio/shinydashboard) - A package that makes it easy to use Shiny to create dashboards.
+	* [shinythemes](https://github.com/rstudio/shinythemes) - A package that provides some Bootstrap themes for use with Shiny.
+	* [shinygadgets](https://github.com/rstudio/shinygadgets) - A package for R that helps you create interactive tools based on the Shiny web framework, that assist in data analysis tasks.
 * [shinyAce](https://github.com/trestletech/shinyAce) - Integrate ace editor with shiny.
 * [shinyBS](https://github.com/ebailey78/shinyBS) - Twitter Bootstrap Components for Shiny.
 * [shinyjs](https://github.com/daattali/shinyjs) - Common javascript operations in shiny via R code.
@@ -192,9 +193,10 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 	* [Workforce Demographics](https://atogov.shinyapps.io/workforcedmgs/) - View a range of workforce related demographics information across an organisation. [Source Code](https://github.com/atogov/workforceDmgs).
 	* [Bivariate Demographics](https://atogov.shinyapps.io/bivariatedmgs/) - Examine how an organisation is performing on a range of demographic information. [Source Code](https://github.com/atogov/bivariateDmgs).
 * [Shiny Database App (CRUD)](https://ipub.com/dev-corner/apps/shiny_crud01/) - An example of a [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) shiny app with [accompanying how-to post](https://ipub.com/shiny-crud-app/).
-
-----------
-
+* [taskviewr](https://bearloga.shinyapps.io/taskviewr/) - A Shiny app for browsing R packages by CRAN Task Views and license info.
+* [homebrewR](https://davesteps.shinyapps.io/homebrewR/) - An app to explore and compare beer recipes.
+* [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - A Shiny app for Discogs users to visualize and explore their record collections.
+* [polMonitor](https://ewenme.shinyapps.io/polMonitor/) - A Shiny app for monitoring police violence in the United States.
 
 # Contributors
 * [Rob Gilmore](https://github.com/grabear)
