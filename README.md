@@ -2,7 +2,7 @@
 [<img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" align="right" width="100">](https://www.rstudio.com)
 A curated list of resources for R Shiny.  This awesome list was inspired by https://github.com/dpastoor/awesome-shiny.
 
-### This list is currently featured on [Awesome-R](https://awesome-r.com/)!!
+### This list is currently featured on [Awesome-R!](https://awesome-r.com/)
 
 - [Resources](#resources)
     - [General](#general)
@@ -15,7 +15,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 - [People](#people)
 - [Books](#books)
 - [Galleries](#galleries)
-- [App Examples](#app-Examples)
+- [App Examples](#app-examples)
 - [Contributors](#contributors)
 
 
@@ -132,6 +132,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 ## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau) - Host a Shiny App in Tableau.
 * [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
+	* [Crosstalk](https://rstudio.github.io/crosstalk/shiny.html) - Extends htmlwidgets with functionality for implementing cross-widget interactions.
 	* [DT](https://github.com/rstudio/DT) - Provides a function `datatable()` to display R data via the DataTables javascript library.
 	* [leaflet](http://rstudio.github.io/leaflet/shiny.html) - JavaScript library for creating dynamic maps that support panning and zooming along with various annotations like markers, polygons, and popups.
 	* [d3heatmap](https://github.com/rstudio/d3heatmap) - Implements a D3 heatmap htmlwidget.
@@ -166,9 +167,15 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [Learing Shiny - by Hernán G. Resnizky](https://www.amazon.com/Learning-Shiny-Hernan-G-Resnizky/dp/1785280902)
 
 # Galleries
-* [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/)
-* [Rstudio's Shiny gallery](https://shiny.rstudio.com/gallery/)
-* [showmeshiny](http://www.showmeshiny.com/) - Huge gallery of Shiny apps.
+* [R-Studio]()
+	* [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/) - Featured user Shiny apps.
+	* [Shiny Gallery](https://shiny.rstudio.com/gallery/) - Shiny apps and much more.
+* [Showmeshiny](http://www.showmeshiny.com/) - Huge gallery of Shiny apps.
+* [Shiny Widgets](http://shinyapps.org/) - Experience statistics with apps designed for teaching and analysis.
+* [Html Widgets]()
+	* [Html Widgets Showcase](http://www.htmlwidgets.org/showcase_leaflet.html) - Featured Html widgets.
+	* [Html Widgets Gallery](http://gallery.htmlwidgets.org/) - User submitted Html widgets.
+* [R Graph Catalog](http://shinyapps.stat.ubc.ca/r-graph-catalog/) - Complement to the book  “Creating More Effective Graphs” by Naomi Robbins.
 
 # App Examples
 * [R-Studio Examples](https://github.com/rstudio/shiny-examples)
