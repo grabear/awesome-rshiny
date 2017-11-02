@@ -130,7 +130,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [shinysense](https://github.com/nstrayer/shinysense) - Series of Shiny modules to help Shiny sense the world around it.
  
 ## Integrations
-* [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau)
+* [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau) - Host a Shiny App in Tableau.
 * [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
 	* [DT](https://github.com/rstudio/DT) - Provides a function `datatable()` to display R data via the DataTables javascript library.
 	* [leaflet](http://rstudio.github.io/leaflet/shiny.html) - JavaScript library for creating dynamic maps that support panning and zooming along with various annotations like markers, polygons, and popups.
