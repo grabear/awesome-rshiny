@@ -17,6 +17,10 @@ Have you ensured your contribution adheres to the pull request guidelines of [aw
 	- Drop all the `A` / `An` prefixes in the descriptions.
 	- Consistent and correct naming. For example, `Node.js`, not `NodeJS` or `node.js`.
 
+----------
+
+### For first time contributors...
+
 ##### Do you want to be added to the contributors list on the README.md file?  
 <!-- Check yes or no. If yes respond to the next 2 questions. If no, submit the pull request. -->
 - [ ] Yes
