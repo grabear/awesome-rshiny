@@ -45,7 +45,8 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 ### Self Hosting
 * [Shiny Server](https://github.com/rstudio/shiny-server) - Back end software that builds a web server for shiny apps.
 * [RStudio Connect](https://www.rstudio.com/products/connect/) - Back end software for hosing shiny applications, Rmarkdown... plus other features for enterprise contexts.
-* [Shinyproxy](https://www.shinyproxy.io/) - Uses docker containers for hosting shiny apps and a Java server control and proxy traffic to the app containers. [How-to Blog](http://lukesingham.com/shiny-containers-with-shinyproxy/).
+* [Shinyproxy](https://www.shinyproxy.io/) - Uses 
+containers for hosting shiny apps and a Java server control and proxy traffic to the app containers. [How-to Blog](http://lukesingham.com/shiny-containers-with-shinyproxy/).
 
 ### Platform As A Service (PAAS)
 * [ShinyApps.io](http://www.shinyapps.io/) - Rstudio's PAAS specifically for hosting shiny apps.
@@ -98,6 +99,7 @@ A curated list of resources for R Shiny.  This awesome list was inspired by http
 * [CI/CD with Shiny and Kubernetes](https://blog.kublr.com/delivering-data-science-for-the-enterprise-with-shiny-r-in-kubernetes-8430c88d1b52)
 * [Shiny Server on Docker: CentOS 7 Edition](http://www.datascienceriot.com/r/shiny-docker/)
 * [Use Docker to distribute and run Shiny apps](https://wabi-wiki.scilifelab.se/display/KB/Use+Docker+to+distribute+and+run+Shiny+apps)
+* [Dockerizing a Shiny App](http://www.rmining.net/2015/04/30/dockerizing-a-shiny-app/index.html)
 
 # Tools
 
