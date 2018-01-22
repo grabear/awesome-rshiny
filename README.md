@@ -100,6 +100,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Shiny Server on Docker: CentOS 7 Edition](http://www.datascienceriot.com/r/shiny-docker/)
 * [Use Docker to distribute and run Shiny apps](https://wabi-wiki.scilifelab.se/display/KB/Use+Docker+to+distribute+and+run+Shiny+apps)
 * [Dockerizing a Shiny App](http://www.rmining.net/2015/04/30/dockerizing-a-shiny-app/index.html)
+* [Cookie based authentication with Shiny](https://calligross.de/post/using-cookie-based-authentication-with-shiny/)
 
 # Tools
 
