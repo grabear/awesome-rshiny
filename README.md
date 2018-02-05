@@ -130,7 +130,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [directoryInput](https://github.com/wleepang/shiny-directory-input) - Widget for interactive selection of directories.
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications.
 * [shinysense](https://github.com/nstrayer/shinysense) - Series of Shiny modules to help Shiny sense the world around it.
-* [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - Extend input widgets available in shiny.
+* [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - Extend input widgets available in Shiny.
  
 ## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau) - Host a Shiny App in Tableau.
