@@ -23,13 +23,13 @@ Have you ensured your contribution adheres to the pull request guidelines of [aw
 
 ##### Do you want to be added to the contributors list on the README.md file?  
 <!-- Check yes or no. If yes respond to the next 2 questions. If no, submit the pull request. -->
-- [x] Yes
+- [ ] Yes
 - [ ] No
 
 ##### What name would you like?
 <!-- Add a name and link to your name to the README if you checked yes above.-->
-Donald Mellenbruch
+
 
 ##### What website would you like your name linked to?
-www.donaldmellenbruch.com
+
   
