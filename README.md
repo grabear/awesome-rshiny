@@ -192,6 +192,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [shinyData](https://github.com/yindeng/shinyData) - Interactive data analysis and visualization.
 * [STARTapp](https://github.com/jminnier/STARTapp) - Transcriptome Analysis Resource Tool.
 * [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) - Provides a graphical user interface to the microbiome analysis package for R, called phyloseq.
+* [shiny-ampvis2](https://kasperskytte.shinyapps.io/shinyampvis) - Provides some basic functionality for using ampvis2 to visualize microbiome data.
 * [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - Demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL.
 * [BallR](https://github.com/toddwschneider/ballr) - Uses the NBA Stats API to visualize every shot taken by a player during an NBA season dating back to 1996.
 * [DDCV](https://github.com/xtmgah/DDCV) - Evaluate drug-drug interactions.
