@@ -229,18 +229,18 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [Workforce Demographics](https://atogov.shinyapps.io/workforcedmgs/) - View a range of workforce related demographics information across an organisation. [Source Code](https://github.com/atogov/workforceDmgs).
 	* [Bivariate Demographics](https://atogov.shinyapps.io/bivariatedmgs/) - Examine how an organisation is performing on a range of demographic information. [Source Code](https://github.com/atogov/bivariateDmgs).
 * [Shiny Database App (CRUD)](https://ipub.com/dev-corner/apps/shiny_crud01/) - An example of a [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) shiny app with [accompanying how-to post](https://ipub.com/shiny-crud-app/).
-* [taskviewr](https://bearloga.shinyapps.io/taskviewr/) - A Shiny app for browsing R packages by CRAN Task Views and license info.
-* [homebrewR](https://davesteps.shinyapps.io/homebrewR/) - An app to explore and compare beer recipes.
-* [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - A Shiny app for Discogs users to visualize and explore their record collections.
-* [polMonitor](https://ewenme.shinyapps.io/polMonitor/) - A Shiny app for monitoring police violence in the United States.
-* [OCRinShiny](https://github.com/longhowlam/OCRinShiny) - A Shiny app that lets you OCR an image with the tesseract package.
-* [ExpressionDB](https://github.com/5c077/ExpressionDB) - A Shiny app for hosting gene expression/ontology data with Shiny.
-* [Interactive PCA Explorer](https://github.com/benmarwick/Interactive_PCA_Explorer) - AS hiny app for exploring a PCA plots and data.
-* [contributr](https://github.com/LucyMcGowan/contributr) - A Shiny app for finding beginner GitHub issues to contribute to.
-* [VisualPruner](https://github.com/LaurenSamuels/VisualPruner) - A Shiny app for cohort selection in observational studies.
-* [Opioid Overdose Shiny App](https://github.com/Dmunslow/Opioid-Overdose-Shiny-App) - A Shiny app to visualize opioid overdose data.
-* [Shiny App Spotify](https://github.com/joelcponte/shiny-app-spotify) - A Shiny app that connects with spotify's API and provides personalized playlist recommendations through machine learning and data visualization.
-* [National Parks Weather](https://github.com/sgaraycoa/National-Parks-Weather) - A Shiny app to visualize National Parks locations and weather using user input.
+* [taskviewr](https://bearloga.shinyapps.io/taskviewr/) - Browse R packages by CRAN Task Views and license info.
+* [homebrewR](https://davesteps.shinyapps.io/homebrewR/) - Explore and compare beer recipes.
+* [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - Visualize and explore record collections for Discogs users.
+* [polMonitor](https://ewenme.shinyapps.io/polMonitor/) - Monitor police violence in the United States.
+* [OCRinShiny](https://github.com/longhowlam/OCRinShiny) - OCR an image with the tesseract package.
+* [ExpressionDB](https://github.com/5c077/ExpressionDB) - Host gene expression/ontology data with Shiny.
+* [Interactive PCA Explorer](https://github.com/benmarwick/Interactive_PCA_Explorer) - Explore a PCA plots and data.
+* [contributr](https://github.com/LucyMcGowan/contributr) - Find beginner GitHub issues to contribute to.
+* [VisualPruner](https://github.com/LaurenSamuels/VisualPruner) - Cohort selection in observational studies.
+* [Opioid Overdose Shiny App](https://github.com/Dmunslow/Opioid-Overdose-Shiny-App) - Visualize opioid overdose data.
+* [Shiny App Spotify](https://github.com/joelcponte/shiny-app-spotify) - Connect with spotify's API and generate personalized playlist recommendations through machine learning and data visualization.
+* [National Parks Weather](https://github.com/sgaraycoa/National-Parks-Weather) - Visualize National Parks locations and weather using user input.
 
 # Contributors
 
