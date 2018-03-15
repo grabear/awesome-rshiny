@@ -32,5 +32,5 @@ Documentation
 
 * Make sure that when you add to the list that:
     1. It belongs in that section.
-    2. The title makes since.
+    2. The title makes sense.
     3. The link works.
