@@ -23,6 +23,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 # Resources
 
 ## General
+
 * [Official Website](http://shiny.rstudio.com/)
 	* [Blog](https://blog.rstudio.org/category/shiny/)
 	* [Articles](http://shiny.rstudio.com/articles/)
@@ -33,6 +34,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 * [GitHub](https://github.com/rstudio/shiny)
 
 ## Community
+
 * [Shiny Server Forum](https://support.rstudio.com/hc/en-us/community/topics/200092706-Shiny-Server)
 * [StackOverflow Questions](http://stackoverflow.com/questions/tagged/shiny)
 * [R-bloggers](http://www.r-bloggers.com/search/shiny)
@@ -43,17 +45,21 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 * [RGov - Government network for R/Shiny](https://rdotgov.wordpress.com/deploy-shiny/)
 
 ## Deployment
+
 ### Self Hosting
+
 * [Shiny Server](https://github.com/rstudio/shiny-server) - Back end software that builds a web server for shiny apps.
 * [RStudio Connect](https://www.rstudio.com/products/connect/) - Back end software for hosing shiny applications, Rmarkdown... plus other features for enterprise contexts.
 * [Shinyproxy](https://www.shinyproxy.io/) - Uses 
 containers for hosting shiny apps and a Java server control and proxy traffic to the app containers. [How-to Blog](http://lukesingham.com/shiny-containers-with-shinyproxy/).
 
 ### Platform As A Service (PAAS)
+
 * [ShinyApps.io](http://www.shinyapps.io/) - Rstudio's PAAS specifically for hosting shiny apps.
 * [Heroku](https://www.heroku.com) - General cloud application platform that can be utilised by shiny apps with these [buildpack scripts](https://github.com/virtualstaticvoid/heroku-buildpack-r/tree/heroku-16).
 
 ## Tutorials
+
 * [The R-Podcast](https://r-podcast.org/)
     * [Episode 15: Introduction to Shiny](https://r-podcast.org/episode/015-introduction-to-shiny/)
     * [Episode 16: Interview with Dean Attali](https://r-podcast.org/episode/016-interview-with-dean-attali/)
@@ -111,6 +117,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 # Tools
 
 ## Packages
+
 * [R-Studio]()
 	* [shinydashboard](https://github.com/rstudio/shinydashboard) - A package that makes it easy to use Shiny to create dashboards.
 	* [shinythemes](https://github.com/rstudio/shinythemes) - A package that provides some Bootstrap themes for use with Shiny.
@@ -140,8 +147,10 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [shinysense](https://github.com/nstrayer/shinysense) - Series of Shiny modules to help Shiny sense the world around it.
 * [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - Extend input widgets available in Shiny.
 * [ggedit](https://github.com/metrumresearchgroup/ggedit) - A Shiny gadget for exploring ggplot objects.
+* [shinytest](https://github.com/rstudio/shinytest) - Automated testing for shiny apps.
  
 ## Integrations
+
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau) - Host a Shiny App in Tableau.
 * [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
 	* [Crosstalk](https://rstudio.github.io/crosstalk/shiny.html) - Extends htmlwidgets with functionality for implementing cross-widget interactions.
@@ -167,6 +176,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [googleVis](https://github.com/mages/googleVis) - An interface between R and the [Google's charts tools](https://developers.google.com/chart/).
 
 # People
+
 * [Dean Attali](https://github.com/daattali)
 * [Joe Cheng](https://github.com/jcheng5)
 * [Winston Chang](https://github.com/wch)
@@ -177,10 +187,12 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Sebastian Kranz](https://github.com/skranz)
 
 # Books
+
 * [Web Application and Development Using Shiny (2nd edition) - by Chris Beely](https://www.amazon.com/Web-Application-Development-using-Shiny/dp/1782174346)
 * [Learing Shiny - by Hernán G. Resnizky](https://www.amazon.com/Learning-Shiny-Hernan-G-Resnizky/dp/1785280902)
 
 # Galleries
+
 * [R-Studio]()
 	* [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/) - Featured user Shiny apps.
 	* [Shiny Gallery](https://shiny.rstudio.com/gallery/) - Shiny apps and much more.
@@ -192,6 +204,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [R Graph Catalog](http://shinyapps.stat.ubc.ca/r-graph-catalog/) - Complement to the book  “Creating More Effective Graphs” by Naomi Robbins.
 
 # App Examples
+
 * [R-Studio Examples](https://github.com/rstudio/shiny-examples)
 * [Waze](https://www.rstudio.com/resources/customer-spotlight/waze_story/) - Community based real-time traffic and navigation info.
 * [Astra Zenca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
@@ -221,7 +234,16 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - A Shiny app for Discogs users to visualize and explore their record collections.
 * [polMonitor](https://ewenme.shinyapps.io/polMonitor/) - A Shiny app for monitoring police violence in the United States.
 * [OCRinShiny](https://github.com/longhowlam/OCRinShiny) - A Shiny app that lets you OCR an image with the tesseract package.
+* [ExpressionDB](https://github.com/5c077/ExpressionDB) - A Shiny app for hosting gene expression/ontology data with Shiny.
+* [Interactive PCA Explorer](https://github.com/benmarwick/Interactive_PCA_Explorer) - AS hiny app for exploring a PCA plots and data.
+* [contributr](https://github.com/LucyMcGowan/contributr) - A Shiny app for finding beginner GitHub issues to contribute to.
+* [VisualPruner](https://github.com/LaurenSamuels/VisualPruner) - A Shiny app for cohort selection in observational studies.
+* [Opioid Overdose Shiny App](https://github.com/Dmunslow/Opioid-Overdose-Shiny-App) - A Shiny app to visualize opioid overdose data.
+* [Shiny App Spotify](https://github.com/joelcponte/shiny-app-spotify) - A Shiny app that connects with spotify's API and provides personalized playlist recommendations through machine learning and data visualization.
+* [National Parks Weather](https://github.com/sgaraycoa/National-Parks-Weather) - A Shiny app to visualize National Parks locations and weather using user input.
+
 # Contributors
+
 * [Rob Gilmore](https://github.com/grabear)
 * [Shaurita Hutchins](https://github.com/sdhutchins)
 * [Devin Pastoor](https://github.com/dpastoor)
