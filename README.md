@@ -1,6 +1,7 @@
 # Awesome R Shiny [![Join the chat at https://gitter.im/awesome-rshiny/Lobby](https://badges.gitter.im/awesome-rshiny/Lobby.svg)](https://gitter.im/awesome-rshiny/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" align="right" width="100">](https://www.rstudio.com)
 A curated list of resources for R Shiny.  This awesome list was inspired by https://github.com/dpastoor/awesome-shiny.
+Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics)
 
 ### This list is currently featured on [Awesome-R!](https://awesome-r.com/)
 
@@ -75,7 +76,11 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [Building Dashboards](https://www.rstudio.com/resources/videos/building-dashboards/)
 * [R-Studio (YouTube)](https://www.youtube.com/playlist?list=PL9HYL-VRX0oTAHdR62i2YaLNmJhFiiwaO)
 * [R-Studio (Vimeo)](https://vimeo.com/rstudioinc)
+* [DataCamp](https://www.datacamp.com/)
+	* [Building Web Applications in R with Shiny](https://www.datacamp.com/courses/building-web-applications-in-r-with-shiny)
+	* [Dean Attali: Shiny Case Studies: My new online interactive video course (DataCamp)](https://deanattali.com/blog/shiny-use-cases-datacamp-course/)
 * [Dean Attali](http://deanattali.com/)
+	* [2018 Blog Post: shinyalert: Easily create pretty popup messages (modals) in Shiny](https://deanattali.com/blog/shinyalert-package/)
 	* [Blog Post:  Building Shiny apps - an interactive tutorial](http://deanattali.com/blog/building-shiny-apps-tutorial/)
 	* [Blog Post:  Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
 	* [Blog Post:  How to get your very own RStudio Server and Shiny Server with DigitalOcean](http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
@@ -110,6 +115,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [shinydashboard](https://github.com/rstudio/shinydashboard) - A package that makes it easy to use Shiny to create dashboards.
 	* [shinythemes](https://github.com/rstudio/shinythemes) - A package that provides some Bootstrap themes for use with Shiny.
 	* [shinygadgets](https://github.com/rstudio/shinygadgets) - A package for R that helps you create interactive tools based on the Shiny web framework, that assist in data analysis tasks.
+* [dashboardthemes](https://github.com/nik01010/dashboardthemes) - An experimental R package to provide custom theme options for Shinydashboard applications
 * [shinyAce](https://github.com/trestletech/shinyAce) - Integrate ace editor with shiny.
 * [shinyBS](https://github.com/ebailey78/shinyBS) - Twitter Bootstrap Components for Shiny.
 * [shinyjs](https://github.com/daattali/shinyjs) - Common javascript operations in shiny via R code.
@@ -132,6 +138,8 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [directoryInput](https://github.com/wleepang/shiny-directory-input) - Widget for interactive selection of directories.
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications.
 * [shinysense](https://github.com/nstrayer/shinysense) - Series of Shiny modules to help Shiny sense the world around it.
+* [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - Extend input widgets available in Shiny.
+* [ggedit](https://github.com/metrumresearchgroup/ggedit) - A Shiny gadget for exploring ggplot objects.
  
 ## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau) - Host a Shiny App in Tableau.
@@ -150,6 +158,8 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [formattable](https://renkun.me/formattable/) - This package is designed for applying formatting on vectors and data frames to make data presentation easier, richer, more flexible and hopefully convey more information.
 	* [Gallery of HTML Widgets](http://gallery.htmlwidgets.org/) - Gallery of all R htmlwidgets.
 	* [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget)
+	* [gglabeller](https://github.com/AliciaSchep/gglabeller) - Gadget that enables selecting points on a ggplot to label.
+	* [billboarder](https://github.com/dreamRs/billboarder) - Htmlwidget for billboard.js.
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
 * [ggvis](https://github.com/rstudio/ggvis) - Make it easy to describe interactive web graphics in R.
@@ -186,10 +196,12 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Waze](https://www.rstudio.com/resources/customer-spotlight/waze_story/) - Community based real-time traffic and navigation info.
 * [Astra Zenca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
 * [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - Traveling salesman app.
+* [Shiny GEM](https://www.donaldmellenbruch.com/post/introducing-shiny-gem/) - ‘GEM’ stands for ‘general exploratory methods’, as this app aims to simplify a variety of basic EDA tasks.
 * [shinyEd](https://github.com/ShinyEd/ShinyEd) - Statistics education apps.
 * [shinyData](https://github.com/yindeng/shinyData) - Interactive data analysis and visualization.
 * [STARTapp](https://github.com/jminnier/STARTapp) - Transcriptome Analysis Resource Tool.
 * [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) - Provides a graphical user interface to the microbiome analysis package for R, called phyloseq.
+* [shiny-ampvis2](https://kasperskytte.shinyapps.io/shinyampvis) - Provides some basic functionality for using ampvis2 to visualize microbiome data.
 * [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - Demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL.
 * [BallR](https://github.com/toddwschneider/ballr) - Uses the NBA Stats API to visualize every shot taken by a player during an NBA season dating back to 1996.
 * [DDCV](https://github.com/xtmgah/DDCV) - Evaluate drug-drug interactions.
@@ -208,7 +220,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [homebrewR](https://davesteps.shinyapps.io/homebrewR/) - An app to explore and compare beer recipes.
 * [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - A Shiny app for Discogs users to visualize and explore their record collections.
 * [polMonitor](https://ewenme.shinyapps.io/polMonitor/) - A Shiny app for monitoring police violence in the United States.
-
+* [OCRinShiny](https://github.com/longhowlam/OCRinShiny) - A Shiny app that lets you OCR an image with the tesseract package.
 # Contributors
 * [Rob Gilmore](https://github.com/grabear)
 * [Shaurita Hutchins](https://github.com/sdhutchins)
