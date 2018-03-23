@@ -148,6 +148,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - Extend input widgets available in Shiny.
 * [ggedit](https://github.com/metrumresearchgroup/ggedit) - A Shiny gadget for exploring ggplot objects.
 * [shinytest](https://github.com/rstudio/shinytest) - Automated testing for shiny apps.
+* [timevis](https://github.com/daattali/timevis/) - Create interactive timeline visualizations in R.
  
 ## Integrations
 
@@ -241,6 +242,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Opioid Overdose Shiny App](https://github.com/Dmunslow/Opioid-Overdose-Shiny-App) - Visualize opioid overdose data.
 * [Shiny App Spotify](https://github.com/joelcponte/shiny-app-spotify) - Connect with spotify's API and generate personalized playlist recommendations through machine learning and data visualization.
 * [National Parks Weather](https://github.com/sgaraycoa/National-Parks-Weather) - Visualize National Parks locations and weather using user input.
+* [html2r](https://github.com/alandipert/html2r) - Convert HTML to R.
 
 # Contributors
 
