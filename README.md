@@ -115,6 +115,8 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [shinydashboard](https://github.com/rstudio/shinydashboard) - A package that makes it easy to use Shiny to create dashboards.
 	* [shinythemes](https://github.com/rstudio/shinythemes) - A package that provides some Bootstrap themes for use with Shiny.
 	* [shinygadgets](https://github.com/rstudio/shinygadgets) - A package for R that helps you create interactive tools based on the Shiny web framework, that assist in data analysis tasks.
+  * [miniUI](https://github.com/rstudio/miniUI) - Provides UI widget and layout functions for writing Shiny apps that work well on small screens.
+  * [shinytest](https://github.com/rstudio/shinytest) - Provides tools for creating and running automated tests on Shiny applications.
 * [dashboardthemes](https://github.com/nik01010/dashboardthemes) - An experimental R package to provide custom theme options for Shinydashboard applications
 * [shinyAce](https://github.com/trestletech/shinyAce) - Integrate ace editor with shiny.
 * [shinyBS](https://github.com/ebailey78/shinyBS) - Twitter Bootstrap Components for Shiny.
@@ -140,6 +142,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [shinysense](https://github.com/nstrayer/shinysense) - Series of Shiny modules to help Shiny sense the world around it.
 * [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - Extend input widgets available in Shiny.
 * [ggedit](https://github.com/metrumresearchgroup/ggedit) - A Shiny gadget for exploring ggplot objects.
+* [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr).
  
 ## Integrations
 * [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau) - Host a Shiny App in Tableau.
@@ -165,6 +168,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [ggvis](https://github.com/rstudio/ggvis) - Make it easy to describe interactive web graphics in R.
 * [RInno](https://github.com/ficonsulting/RInno) - Install local shiny apps by providing an interface between R and Inno Setup, (Windows Only).
 * [googleVis](https://github.com/mages/googleVis) - An interface between R and the [Google's charts tools](https://developers.google.com/chart/).
+* [pool](https://github.com/rstudio/pool) - Abstract away the logic of connection management and the performance cost of fetching a new connection from a remote database.
 
 # People
 * [Dean Attali](https://github.com/daattali)
