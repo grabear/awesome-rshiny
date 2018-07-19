@@ -151,6 +151,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [shinytest](https://github.com/rstudio/shinytest) - Automated testing for shiny apps.
 * [timevis](https://github.com/daattali/timevis/) - Create interactive timeline visualizations in R.
 * [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr). 
+* [shiny.collections](https://github.com/Appsilon/shiny.collections)  - Google Docs-like live collaboration in Shiny
 
 ## Integrations
 
