@@ -113,6 +113,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Dockerizing a Shiny App](http://www.rmining.net/2015/04/30/dockerizing-a-shiny-app/index.html)
 * [Cookie based authentication with Shiny](https://calligross.de/post/using-cookie-based-authentication-with-shiny/)
 * [Dynamically Generate Shiny UI](https://github.com/MangoTheCat/dynshiny)
+* [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
 
 # Tools
 
