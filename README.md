@@ -114,6 +114,14 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Cookie based authentication with Shiny](https://calligross.de/post/using-cookie-based-authentication-with-shiny/)
 * [Dynamically Generate Shiny UI](https://github.com/MangoTheCat/dynshiny)
 * [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
+* [David Granjon](https://divadnojnarg.github.io)
+  * [Customize shiny sliderInput](https://divadnojnarg.github.io/blog/customsliderinput/)
+  * [Making of: knobInput, a new shiny input](https://divadnojnarg.github.io/blog/knobinput/)
+  * [Design beautiful CVs with shiny](https://divadnojnarg.github.io/blog/shinycvs/)
+  * [How to extend shinydashboard?](https://divadnojnarg.github.io/blog/awesomedashboards/)
+  * [Build Bootstrap 4 dashboards with bs4Dash](https://divadnojnarg.github.io/blog/bs4dash/)
+  * [Simple webview for shiny apps](https://divadnojnarg.github.io/blog/shiny_webview/)
+
 
 # Tools
 
@@ -154,7 +162,11 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr). 
 * [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny.
 * [shinydashboardPlus](https://github.com/DivadNojnarg/shinydashboardPlus) - Extensions for shinydashboard.
-
+* [bs4Dash](https://github.com/DivadNojnarg/bs4Dash) - Bootstrap 4 version of shinydashboard.
+* [argonR](https://github.com/RinteRface/argonR) - R wrapper around the Argon Design System.
+* [argonDash](https://github.com/RinteRface/argonDash) - Argon dashboards with R.
+* [shinyEffects](https://github.com/DivadNojnarg/shinyEffects) - Fancy CSS effects for shiny.
+* [gentelellaShiny](https://github.com/MarkEdmondson1234/gentelellaShiny) - gentella dashboard template for shiny.
 
 
 ## Integrations
@@ -194,11 +206,12 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Jeff Allen](https://github.com/trestletech)
 * [Vincent Nijs](https://github.com/vnijs)
 * [Sebastian Kranz](https://github.com/skranz)
+* [David Granjon](https://github.com/DivadNojnarg)
 
 # Books
 
-* [Web Application and Development Using Shiny (2nd edition) - by Chris Beely](https://www.amazon.com/Web-Application-Development-using-Shiny/dp/1782174346)
-* [Learing Shiny - by Hernán G. Resnizky](https://www.amazon.com/Learning-Shiny-Hernan-G-Resnizky/dp/1785280902)
+* [Web Application and Development Using Shiny (3rd edition) - by Chris Beely](https://www.amazon.com/Application-Development-Using-Shiny-visualizations/dp/1788993128)
+* [Learning Shiny - by Hernán G. Resnizky](https://www.amazon.com/Learning-Shiny-Hernan-G-Resnizky/dp/1785280902)
 
 # Galleries
 
@@ -251,6 +264,25 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Shiny App Spotify](https://github.com/joelcponte/shiny-app-spotify) - Connect with spotify's API and generate personalized playlist recommendations through machine learning and data visualization.
 * [National Parks Weather](https://github.com/sgaraycoa/National-Parks-Weather) - Visualize National Parks locations and weather using user input.
 * [html2r](https://github.com/alandipert/html2r) - Convert HTML to R.
+* [shinydashboardPlus Gallery]()
+  * [shinydashboardPlus demo](http://130.60.24.205/shinydashboardPlus/) - Demo of shinydashboardPlus capabilities.
+* [bs4Dash Gallery]()
+  * [bs4Dash Classic Showcase](http://130.60.24.205/bs4Dash/showcase/classic/) - A classic showcase for bs4Dash.
+  * [bs4Dash Old School Showcase](http://130.60.24.205/bs4Dash/showcase/old_school/) - Old school showcase for bs4Dash.
+  * [Metro de Paris](http://130.60.24.205/dreamRs_ratp/) - Explore the "Metro de Paris".
+  * [Around the Lorenz Model](http://130.60.24.205/Lorenz_parameters/) - Explore the Lorenz Model.
+  * [Lorenz Init](http://130.60.24.205/Lorenz_init/) - Run the Lorenz model with various initial conditions.
+  * [Lotka Volterra Models](http://130.60.24.205/Lotka_bdd/) - Explore famous Lotka Volterra models.
+* [argonDash Gallery]()
+  * [argonDash showcase](http://130.60.24.205/argonDash/) - argonDash showcase.
+  * [Gilets Jaunes](http://130.60.24.205/gilets_jaunes/) - App pour suivre le mouvement des gilets jaunes en France.
+* [argonR Gallery]()
+  * [argonR demo](http://130.60.24.205/example.html) - A static website built with argonR.
+* [gentelellaShiny Gallery]()
+  * [gentelellaShiny Showcase](http://130.60.24.205/gentelellaDemo/) - Showcase for gentelellaShiny.
+  * [shinyLove](http://130.60.24.205/shinyLove/) - App to test your love.
+* [shinyCV](https://dgranjon.shinyapps.io/myshinycv/) - A demonstration of the shinyCV package.
+* [shinyBulma](https://dgranjon.shinyapps.io/bulmaExtension/) - A demonstration of shinyBulma.
 
 # Contributors
 
@@ -262,3 +294,4 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Abdul Majed Raja](https://www.github.com/amrrs)
 * [Leonardo Trimarchi](https://domthecodingcaveman.wordpress.com/)
 * [Kshitiz Khanal](http://twitter.com/kshitizkhanal7)
+* [David Granjon](https://github.com/DivadNojnarg)
