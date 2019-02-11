@@ -153,7 +153,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [timevis](https://github.com/daattali/timevis/) - Create interactive timeline visualizations in R.
 * [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr). 
 * [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny.
-* [shinydashboardPlus](https://github.com/DivadNojnarg/shinydashboardPlus) - Extensions for shinydashboard.
+* [RinteRface](https://rinterface.com) - A collection of HTML templates for Shiny.
 
 
 
@@ -194,6 +194,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Jeff Allen](https://github.com/trestletech)
 * [Vincent Nijs](https://github.com/vnijs)
 * [Sebastian Kranz](https://github.com/skranz)
+* [David Granjon](https://divadnojnarg.github.io)
 
 # Books
 
