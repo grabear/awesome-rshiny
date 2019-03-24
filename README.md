@@ -263,3 +263,4 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Abdul Majed Raja](https://www.github.com/amrrs)
 * [Leonardo Trimarchi](https://domthecodingcaveman.wordpress.com/)
 * [Kshitiz Khanal](http://twitter.com/kshitizkhanal7)
+* [Alyssa Columbus](https://alyssacolumbus.com)
