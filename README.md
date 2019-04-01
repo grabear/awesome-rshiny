@@ -168,6 +168,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [Crosstalk](https://rstudio.github.io/crosstalk/shiny.html) - Extends htmlwidgets with functionality for implementing cross-widget interactions.
 	* [DT](https://github.com/rstudio/DT) - Provides a function `datatable()` to display R data via the DataTables javascript library.
 	* [leaflet](http://rstudio.github.io/leaflet/shiny.html) - JavaScript library for creating dynamic maps that support panning and zooming along with various annotations like markers, polygons, and popups.
+	* [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Add and update small charts on an interactive leaflet maps.
 	* [d3heatmap](https://github.com/rstudio/d3heatmap) - Implements a D3 heatmap htmlwidget.
 	* [dygraphs](https://github.com/rstudio/dygraphs) - R interface to the dygraphs JavaScript charting library. It provides rich facilites for charting time-series data in R.
 	* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Tool for creating diagrams and flowcharts using Graphviz and Mermaid.
@@ -181,6 +182,16 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [gglabeller](https://github.com/AliciaSchep/gglabeller) - Gadget that enables selecting points on a ggplot to label.
 	* [billboarder](https://github.com/dreamRs/billboarder) - Htmlwidget for billboard.js.
 	* [highcharter](http://jkunst.com/highcharter/index.html) - Flexible JavaScript charting libraries in shiny.
+	* [rhandsontable](https://github.com/jrowen/rhandsontable) - An htmlwidgets implementation of Handsontable.js.
+    * [echarts4r](https://github.com/JohnCoene/echarts4r) - Create interactive charts by leveraging Echarts.js library.
+    * [rintrojs](https://github.com/carlganz/rintrojs) - Wrapper for the Intro.js library.
+    * [slickR](https://github.com/metrumresearchgroup/slickR) - Slick carousel htmlwidget for R.
+    * [rclipboard](https://github.com/sbihorel/rclipboard) - clipboard.js for R/Shiny Applications.
+    * [scatterD3](https://github.com/juba/scatterD3) - Scatter plot htmlwidget based on D3.js.
+    * [trelliscopejs](https://github.com/hafen/trelliscopejs/) - TrelliscopeJS R package.
+    * [visNetwork](https://github.com/datastorm-open/visNetwork) - Network visualization for R using vis.js library.
+    * [sigmajs](https://github.com/JohnCoene/sigmajs) - Fully-fledged wrapper for the sigma.js JavaScript library.
+    * [
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
 * [ggvis](https://github.com/rstudio/ggvis) - Make it easy to describe interactive web graphics in R.
