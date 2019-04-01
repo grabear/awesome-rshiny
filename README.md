@@ -19,7 +19,6 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 - [App Examples](#app-examples)
 - [Contributors](#contributors)
 
-
 # Resources
 
 ## General
@@ -121,7 +120,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 
 ## Packages
 
-* [R-Studio]()
+* R-Studio
 	* [shinydashboard](https://github.com/rstudio/shinydashboard) - Shiny Dashboarding framework.
 	* [fontawesome](https://github.com/rstudio/fontawesome) - Easily insert FontAwesome icons into R Markdown docs and Shiny apps.
 	* [shinythemes](https://github.com/rstudio/shinythemes) - Bootstrap themes for use with Shiny.
@@ -191,7 +190,6 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
     * [trelliscopejs](https://github.com/hafen/trelliscopejs/) - TrelliscopeJS R package.
     * [visNetwork](https://github.com/datastorm-open/visNetwork) - Network visualization for R using vis.js library.
     * [sigmajs](https://github.com/JohnCoene/sigmajs) - Fully-fledged wrapper for the sigma.js JavaScript library.
-    * [
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
 * [ggvis](https://github.com/rstudio/ggvis) - Make it easy to describe interactive web graphics in R.
