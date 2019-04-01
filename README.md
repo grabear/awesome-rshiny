@@ -142,7 +142,6 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) - Insert interactive charts from ECharts into Shiny.
 * [shinyFeedback](https://github.com/merlinoa/shinyFeedback) - Display user feedback along side Shiny inputs.
 * [shinycssloader](https://github.com/andrewsali/shinycssloaders) - Add CSS loader animations to Shiny outputs.
-* [rclipboard](https://github.com/sbihorel/rclipboard) - clipboard.js for R/Shiny Applications.
 * [directoryInput](https://github.com/wleepang/shiny-directory-input) - Widget for interactive selection of directories.
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications.
 * [shinysense](https://github.com/nstrayer/shinysense) - Series of Shiny modules to help Shiny sense the world around it.
@@ -154,8 +153,14 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny.
 * [RinteRface](https://rinterface.com) - A collection of HTML templates for Shiny.
 * [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - Semantic UI wrapper for Shiny.
-
-
+* [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on shiny.
+* [shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Add a custom loader for R Shiny.
+* [shinybusy](https://github.com/dreamRs/shinybusy) - Minimal busy indicator for Shiny apps.
+* [waiter](https://github.com/JohnCoene/waiter) - Loading screens for Shiny.
+* [shinyhelper](https://github.com/cwthom/shinyhelper) - Add markdown help files to Shiny apps.
+* [shinyauthr](https://github.com/PaulC91/shinyauthr) - Server-side authentication using shiny modules.
+* [auth0](https://github.com/curso-r/auth0) - Authentication in Shiny apps using Auth0 service.
+* [reactlog](https://github.com/rstudio/reactlog) - Visual insight into a Shiny apps reactive graph.
 
 ## Integrations
 
