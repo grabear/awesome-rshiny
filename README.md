@@ -106,8 +106,6 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [Async programming in R and Shiny](https://medium.com/@joe.cheng/async-programming-in-r-and-shiny-ebe8c5010790)
 	* [An informal intro to async Shiny](https://medium.com/@joe.cheng/an-informal-intro-to-async-shiny-cbf01c85c4c5)
 * [Alyssa Columbus](https://alyssacolumbus.com)
-	* [Data Visualization with R Shiny Tutorial](https://github.com/acolum/conference-presentations/tree/master/OSCON_Shiny)
-	* [Introduction to R Shiny Tutorial](https://github.com/rladies-irvine/presentations/tree/master/2019-01-30_Happy-Shiny-New-Year)
 	* [Blog Post: Introduction to R Shiny](https://opendatascience.com/introduction-to-r-shiny/)
 * [Abhinav Agrawal (YouTube)](https://www.youtube.com/playlist?list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
 * [AHmed HAsan (YouTube)](https://www.youtube.com/playlist?list=PLXiYeGj1hvHN5Nnu2VwRg_E-YMoc1vtan)
