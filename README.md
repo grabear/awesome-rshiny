@@ -158,7 +158,6 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 
 ## Integrations
 
-* [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau) - Host a Shiny App in Tableau.
 * [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
 	* [Crosstalk](https://rstudio.github.io/crosstalk/shiny.html) - Extends htmlwidgets with functionality for implementing cross-widget interactions.
 	* [DT](https://github.com/rstudio/DT) - Provides a function `datatable()` to display R data via the DataTables javascript library.
@@ -172,10 +171,10 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [rbokeh](http://hafen.github.io/rbokeh/) - Interface to Bokeh that provides a flexible, powerful, declarative framework for creating interactive plots.
 	* [plotly](https://github.com/ropensci/plotly) - Easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
 	* [formattable](https://renkun.me/formattable/) - This package is designed for applying formatting on vectors and data frames to make data presentation easier, richer, more flexible and hopefully convey more information.
-	* [Gallery of HTML Widgets](http://gallery.htmlwidgets.org/) - Gallery of all R htmlwidgets.
-	* [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget)
+	* [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget) - Add More Interactivity to htmlWidgets.
 	* [gglabeller](https://github.com/AliciaSchep/gglabeller) - Gadget that enables selecting points on a ggplot to label.
 	* [billboarder](https://github.com/dreamRs/billboarder) - Htmlwidget for billboard.js.
+	* [highcharter](http://jkunst.com/highcharter/index.html) - Flexible JavaScript charting libraries in shiny.
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
 * [ggvis](https://github.com/rstudio/ggvis) - Make it easy to describe interactive web graphics in R.
