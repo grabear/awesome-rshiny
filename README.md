@@ -210,6 +210,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [Html Widgets Showcase](http://www.htmlwidgets.org/showcase_leaflet.html) - Featured Html widgets.
 	* [Html Widgets Gallery](http://gallery.htmlwidgets.org/) - User submitted Html widgets.
 * [R Graph Catalog](http://shinyapps.stat.ubc.ca/r-graph-catalog/) - Complement to the book  “Creating More Effective Graphs” by Naomi Robbins.
+* [Awesome Shiny Apps for Statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) - A curated list of awesome Shiny Apps for statistics.
 
 # App Examples
 
