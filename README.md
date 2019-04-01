@@ -71,6 +71,8 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
     * [Episode 18: Interviews with the R-Studio Team](https://r-podcast.org/episode/018-interviews-with-the-rstudio-team/)
     * [Episode 19: Talking Shiny at R-Studio Conf wiht Barabara Borges and Dean Attali](https://r-podcast.org/episode/019-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali/)
     * [Episode 21: Talking Rcpp and More with Dirk Eddelbuettel](https://r-podcast.org/episode/021-talking-rcpp-and-more-with-dirk-eddelbuettel/)
+    * [Episode 25: Interview with Ian Lyttle (Rstudio::Conf 2018](https://r-podcast.org/episode/025-rstudioconf-ian-lyttle/)
+    * [Episode 27: Get The {Gt} Tables (Rstudio::Conf 2019)](https://r-podcast.org/episode/027-rstudioconf-tables/)
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
     * [RStartHere](https://github.com/rstudio/RStartHere)
 	* [Effective Reactive Programming – Part 1 & Part 2](https://www.rstudio.com/resources/videos/effective-reactive-programming/)
