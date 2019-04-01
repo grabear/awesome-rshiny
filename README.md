@@ -122,19 +122,17 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 ## Packages
 
 * [R-Studio]()
-	* [shinydashboard](https://github.com/rstudio/shinydashboard) - A package that makes it easy to use Shiny to create dashboards.
-	* [shinythemes](https://github.com/rstudio/shinythemes) - A package that provides some Bootstrap themes for use with Shiny.
-	* [shinygadgets](https://github.com/rstudio/shinygadgets) - A package for R that helps you create interactive tools based on the Shiny web framework, that assist in data analysis tasks.
+	* [shinydashboard](https://github.com/rstudio/shinydashboard) - Shiny Dashboarding framework.
+	* [fontawesome](https://github.com/rstudio/fontawesome) - Easily insert FontAwesome icons into R Markdown docs and Shiny apps.
+	* [shinythemes](https://github.com/rstudio/shinythemes) - Bootstrap themes for use with Shiny.
         * [miniUI](https://github.com/rstudio/miniUI) - Provides UI widget and layout functions for writing Shiny apps that work well on small screens.
 * [dashboardthemes](https://github.com/nik01010/dashboardthemes) - An experimental R package to provide custom theme options for Shinydashboard applications
 * [shinyAce](https://github.com/trestletech/shinyAce) - Integrate ace editor with shiny.
-* [shinyBS](https://github.com/ebailey78/shinyBS) - Twitter Bootstrap Components for Shiny.
 * [shinyjs](https://github.com/daattali/shinyjs) - Common javascript operations in shiny via R code.
 * [colourpicker](https://github.com/daattali/colourpicker) - Colour picker widget that can be used in different contexts in R.
-* [shinyEvents](https://github.com/skranz/shinyEvents) - Alternative way to build shiny apps based on event handlers.
 * [ShinySky](https://github.com/AnalytixWare/ShinySky) - Various UI widgets/components not part of Shiny e.g. alerts, styled buttons.
 * [radiant](https://github.com/radiant-rstats/radiant) - Business analytics using R and Shiny.
-* [shinyTree](https://github.com/tdanker/shinyTree) - Enables Shiny application developers to use the jsTree library in their applications.
+* [shinyTree](https://github.com/shinyTree/shinyTree) - Enables Shiny application developers to use the jsTree library in their applications.
 * [shinystan](http://mc-stan.org/interfaces/shinystan) - Provides visual and numerical summaries of model parameters and convergence diagnostics for MCMC simulations.
 * [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - jQuery UI interactions and effects for shiny.
 * [bsplus](https://github.com/ijlyttle/bsplus) - Shiny and R Markdown addons to Bootstrap 3.
@@ -144,7 +142,6 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) - Insert interactive charts from ECharts into Shiny.
 * [shinyFeedback](https://github.com/merlinoa/shinyFeedback) - Display user feedback along side Shiny inputs.
 * [shinycssloader](https://github.com/andrewsali/shinycssloaders) - Add CSS loader animations to Shiny outputs.
-* [regexSelect](https://github.com/yonicd/regexSelect) - Enable regular expression searches within a shiny selectize object.
 * [rclipboard](https://github.com/sbihorel/rclipboard) - clipboard.js for R/Shiny Applications.
 * [directoryInput](https://github.com/wleepang/shiny-directory-input) - Widget for interactive selection of directories.
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications.
