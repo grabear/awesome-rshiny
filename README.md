@@ -153,6 +153,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr). 
 * [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny.
 * [RinteRface](https://rinterface.com) - A collection of HTML templates for Shiny.
+* [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - Semantic UI wrapper for Shiny.
 
 
 
