@@ -201,12 +201,12 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 
 # Galleries
 
-* [R-Studio]()
+* R-Studio
 	* [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/) - Featured user Shiny apps.
 	* [Shiny Gallery](https://shiny.rstudio.com/gallery/) - Shiny apps and much more.
 * [Showmeshiny](http://www.showmeshiny.com/) - Huge gallery of Shiny apps.
 * [Shiny Widgets](http://shinyapps.org/) - Experience statistics with apps designed for teaching and analysis.
-* [Html Widgets]()
+* Html Widgets
 	* [Html Widgets Showcase](http://www.htmlwidgets.org/showcase_leaflet.html) - Featured Html widgets.
 	* [Html Widgets Gallery](http://gallery.htmlwidgets.org/) - User submitted Html widgets.
 * [R Graph Catalog](http://shinyapps.stat.ubc.ca/r-graph-catalog/) - Complement to the book  “Creating More Effective Graphs” by Naomi Robbins.
@@ -217,19 +217,15 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Waze](https://www.rstudio.com/resources/customer-spotlight/waze_story/) - Community based real-time traffic and navigation info.
 * [Astra Zeneca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
 * [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - Traveling salesman app.
-* [Shiny GEM](https://www.donaldmellenbruch.com/post/introducing-shiny-gem/) - ‘GEM’ stands for ‘general exploratory methods’, as this app aims to simplify a variety of basic EDA tasks.
+* [Shiny GEM](https://www.donaldmellenbruch.com/project/shinygem/) - ‘GEM’ stands for ‘general exploratory methods’, as this app aims to simplify a variety of basic EDA tasks.
 * [shinyEd](https://github.com/ShinyEd/ShinyEd) - Statistics education apps.
-* [shinyData](https://github.com/yindeng/shinyData) - Interactive data analysis and visualization.
 * [STARTapp](https://github.com/jminnier/STARTapp) - Transcriptome Analysis Resource Tool.
 * [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) - Provides a graphical user interface to the microbiome analysis package for R, called phyloseq.
 * [shiny-ampvis2](https://kasperskytte.shinyapps.io/shinyampvis) - Provides some basic functionality for using ampvis2 to visualize microbiome data.
 * [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - Demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL.
 * [BallR](https://github.com/toddwschneider/ballr) - Uses the NBA Stats API to visualize every shot taken by a player during an NBA season dating back to 1996.
-* [DDCV](https://github.com/xtmgah/DDCV) - Evaluate drug-drug interactions.
-* [Github: Hot or Not](https://github.com/wsurles/github_hot_or_not) - Analyzes what repos are hot on github.
 * [GenMap-Comparator](https://github.com/holtzy/GenMap-Comparator) - Compare genetic maps with D3 & Shiny.
 * [MAVIS](https://github.com/kylehamilton/MAVIS) - MAVIS: Meta Analysis via Shiny.
-* [shinyTreeViewer](https://github.com/KlausVigo/shinyTreeViewer) - Simple treeviewer based on the R packages ape and phangorn.
 * [iTunes Reviews Analysis](https://github.com/amrrs/itunesr_webapp) - iTunes App Store Reviews Text Extractor and Text Analysis Web App.
 * [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking.
 * [Lights Out game](https://daattali.com/shiny/lightsout/) - Lights Out is a puzzle game consisting of a grid of lights that are either on or off.
@@ -237,7 +233,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [Workforce Demographics](https://atogov.shinyapps.io/workforcedmgs/) - View a range of workforce related demographics information across an organisation. [Source Code](https://github.com/atogov/workforceDmgs).
 	* [Bivariate Demographics](https://atogov.shinyapps.io/bivariatedmgs/) - Examine how an organisation is performing on a range of demographic information. [Source Code](https://github.com/atogov/bivariateDmgs).
 * [Shiny Database App (CRUD)](https://ipub.com/dev-corner/apps/shiny_crud01/) - An example of a [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) shiny app with [accompanying how-to post](https://ipub.com/shiny-crud-app/).
-* [taskviewr](https://bearloga.shinyapps.io/taskviewr/) - Browse R packages by CRAN Task Views and license info.
+* [taskviewr](https://github.com/bearloga/taskviewr) - Browse R packages by CRAN Task Views and license info.
 * [homebrewR](https://davesteps.shinyapps.io/homebrewR/) - Explore and compare beer recipes.
 * [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - Visualize and explore record collections for Discogs users.
 * [polMonitor](https://ewenme.shinyapps.io/polMonitor/) - Monitor police violence in the United States.
