@@ -98,6 +98,10 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Joe Cheng](https://medium.com/@joe.cheng)
 	* [Async programming in R and Shiny](https://medium.com/@joe.cheng/async-programming-in-r-and-shiny-ebe8c5010790)
 	* [An informal intro to async Shiny](https://medium.com/@joe.cheng/an-informal-intro-to-async-shiny-cbf01c85c4c5)
+* [Alyssa Columbus](https://alyssacolumbus.com)
+	* [Data Visualization with R Shiny Tutorial](https://github.com/acolum/conference-presentations/tree/master/OSCON_Shiny)
+	* [Introduction to R Shiny Tutorial](https://github.com/rladies-irvine/presentations/tree/master/2019-01-30_Happy-Shiny-New-Year)
+	* [Blog Post: Introduction to R Shiny](https://opendatascience.com/introduction-to-r-shiny/)
 * [Abhinav Agrawal (YouTube)](https://www.youtube.com/playlist?list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
 * [AHmed HAsan (YouTube)](https://www.youtube.com/playlist?list=PLXiYeGj1hvHN5Nnu2VwRg_E-YMoc1vtan)
 * [Zev-Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
@@ -217,7 +221,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 
 * [R-Studio Examples](https://github.com/rstudio/shiny-examples)
 * [Waze](https://www.rstudio.com/resources/customer-spotlight/waze_story/) - Community based real-time traffic and navigation info.
-* [Astra Zenca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
+* [Astra Zeneca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
 * [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - Traveling salesman app.
 * [Shiny GEM](https://www.donaldmellenbruch.com/post/introducing-shiny-gem/) - ‘GEM’ stands for ‘general exploratory methods’, as this app aims to simplify a variety of basic EDA tasks.
 * [shinyEd](https://github.com/ShinyEd/ShinyEd) - Statistics education apps.
@@ -263,3 +267,4 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Abdul Majed Raja](https://www.github.com/amrrs)
 * [Leonardo Trimarchi](https://domthecodingcaveman.wordpress.com/)
 * [Kshitiz Khanal](http://twitter.com/kshitizkhanal7)
+* [Alyssa Columbus](https://alyssacolumbus.com)
