@@ -19,7 +19,6 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 - [App Examples](#app-examples)
 - [Contributors](#contributors)
 
-
 # Resources
 
 ## General
@@ -27,15 +26,19 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 * [Official Website](http://shiny.rstudio.com/)
 	* [Blog](https://blog.rstudio.org/category/shiny/)
 	* [Articles](http://shiny.rstudio.com/articles/)
-	* [Webinars](https://www.rstudio.com/resources/webinars/)
-	* [2017 Conference](https://www.rstudio.com/conference/)
-	* [Training](https://www.rstudio.com/instructors/)
+	* [Old Webinars Page](https://www.rstudio.com/resources/webinars/)
+        * [Shiny Essentials](https://www.rstudio.com/resources/webinars/#shinyessentials)
+        * [Advanced Shiny](https://www.rstudio.com/resources/webinars/#advancedshiny)
+    * [New Webinars Page](https://resources.rstudio.com/webinars)
+	* [2019/2020 Conference](https://www.rstudio.com/conference/)
+	* [Training](https://www.rstudio.com/certified-partners/)
+	* [Consultants](https://community.rstudio.com/groups/consultants/)
 	* [Function References](http://shiny.rstudio.com/reference/shiny/latest/)
 * [GitHub](https://github.com/rstudio/shiny)
 
 ## Community
 
-* [Shiny Server Forum](https://support.rstudio.com/hc/en-us/community/topics/200092706-Shiny-Server)
+* [Shiny Server Forum](https://support.rstudio.com/hc/en-us/sections/204025308-Shiny-Server)
 * [StackOverflow Questions](http://stackoverflow.com/questions/tagged/shiny)
 * [R-bloggers](http://www.r-bloggers.com/search/shiny)
 * [Google Group](https://groups.google.com/forum/#!forum/shiny-discuss)
@@ -67,6 +70,8 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
     * [Episode 18: Interviews with the R-Studio Team](https://r-podcast.org/episode/018-interviews-with-the-rstudio-team/)
     * [Episode 19: Talking Shiny at R-Studio Conf wiht Barabara Borges and Dean Attali](https://r-podcast.org/episode/019-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali/)
     * [Episode 21: Talking Rcpp and More with Dirk Eddelbuettel](https://r-podcast.org/episode/021-talking-rcpp-and-more-with-dirk-eddelbuettel/)
+    * [Episode 25: Interview with Ian Lyttle (Rstudio::Conf 2018](https://r-podcast.org/episode/025-rstudioconf-ian-lyttle/)
+    * [Episode 27: Get The {Gt} Tables (Rstudio::Conf 2019)](https://r-podcast.org/episode/027-rstudioconf-tables/)
 * [R-Studio (video)](https://shiny.rstudio.com/tutorial/)
     * [RStartHere](https://github.com/rstudio/RStartHere)
 	* [Effective Reactive Programming – Part 1 & Part 2](https://www.rstudio.com/resources/videos/effective-reactive-programming/)
@@ -85,7 +90,8 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [DataCamp](https://www.datacamp.com/)
 	* [Building Web Applications in R with Shiny](https://www.datacamp.com/courses/building-web-applications-in-r-with-shiny)
 	* [Dean Attali: Shiny Case Studies: My new online interactive video course (DataCamp)](https://deanattali.com/blog/shiny-use-cases-datacamp-course/)
-* [Dean Attali](http://deanattali.com/)
+* [Dean Attali](https://deanattali.com/shiny/)
+    * [CRANalerts: Get email alerts when a CRAN package gets updated](https://cranalerts.com/)
 	* [2018 Blog Post: shinyalert: Easily create pretty popup messages (modals) in Shiny](https://deanattali.com/blog/shinyalert-package/)
 	* [Blog Post:  Building Shiny apps - an interactive tutorial](http://deanattali.com/blog/building-shiny-apps-tutorial/)
 	* [Blog Post:  Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
@@ -98,41 +104,35 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Joe Cheng](https://medium.com/@joe.cheng)
 	* [Async programming in R and Shiny](https://medium.com/@joe.cheng/async-programming-in-r-and-shiny-ebe8c5010790)
 	* [An informal intro to async Shiny](https://medium.com/@joe.cheng/an-informal-intro-to-async-shiny-cbf01c85c4c5)
+* [Alyssa Columbus](https://alyssacolumbus.com)
+	* [Blog Post: Introduction to R Shiny](https://opendatascience.com/introduction-to-r-shiny/)
 * [Abhinav Agrawal (YouTube)](https://www.youtube.com/playlist?list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
 * [AHmed HAsan (YouTube)](https://www.youtube.com/playlist?list=PLXiYeGj1hvHN5Nnu2VwRg_E-YMoc1vtan)
 * [Zev-Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
-* [Shiny Based Tablet or Desktop App](https://www.r-bloggers.com/shiny-based-tablet-or-desktop-app/)
-* [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
-* [I-BioStat - Tutorial in R-Shiny](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
-* [Neon Data Skills - RShiny basics](http://neondataskills.org/R/Create-Basic-Shiny-App-In-R)
-* [How to write web apps in R with Shiny](https://opensource.com/article/17/1/writing-new-web-apps-shiny)
-* [Deploying Shiny as a Portable Desktop App](http://oddhypothesis.blogspot.com/2014/04/deploying-self-contained-r-apps-to.html)
-* [CI/CD with Shiny and Kubernetes](https://blog.kublr.com/delivering-data-science-for-the-enterprise-with-shiny-r-in-kubernetes-8430c88d1b52)
+* [Cheat Sheet](https://www.rstudio.com/resources/cheatsheets/#shiny)
+* [Delivering Data Science for the Enterprise with Shiny in Kubernetes](https://blog.kublr.com/delivering-data-science-for-the-enterprise-with-shiny-r-in-kubernetes-8430c88d1b52)
 * [Shiny Server on Docker: CentOS 7 Edition](http://www.datascienceriot.com/r/shiny-docker/)
 * [Use Docker to distribute and run Shiny apps](https://wabi-wiki.scilifelab.se/display/KB/Use+Docker+to+distribute+and+run+Shiny+apps)
-* [Dockerizing a Shiny App](http://www.rmining.net/2015/04/30/dockerizing-a-shiny-app/index.html)
+* [Dockerizing a Shiny App](http://www.rmining.com.br/2015/04/30/dockerizing-a-shiny-app/index.html)
 * [Cookie based authentication with Shiny](https://calligross.de/post/using-cookie-based-authentication-with-shiny/)
-* [Dynamically Generate Shiny UI](https://github.com/MangoTheCat/dynshiny)
 * [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
 
 # Tools
 
 ## Packages
 
-* [R-Studio]()
-	* [shinydashboard](https://github.com/rstudio/shinydashboard) - A package that makes it easy to use Shiny to create dashboards.
-	* [shinythemes](https://github.com/rstudio/shinythemes) - A package that provides some Bootstrap themes for use with Shiny.
-	* [shinygadgets](https://github.com/rstudio/shinygadgets) - A package for R that helps you create interactive tools based on the Shiny web framework, that assist in data analysis tasks.
+* R-Studio
+	* [shinydashboard](https://github.com/rstudio/shinydashboard) - Shiny Dashboarding framework.
+	* [fontawesome](https://github.com/rstudio/fontawesome) - Easily insert FontAwesome icons into R Markdown docs and Shiny apps.
+	* [shinythemes](https://github.com/rstudio/shinythemes) - Bootstrap themes for use with Shiny.
         * [miniUI](https://github.com/rstudio/miniUI) - Provides UI widget and layout functions for writing Shiny apps that work well on small screens.
 * [dashboardthemes](https://github.com/nik01010/dashboardthemes) - An experimental R package to provide custom theme options for Shinydashboard applications
 * [shinyAce](https://github.com/trestletech/shinyAce) - Integrate ace editor with shiny.
-* [shinyBS](https://github.com/ebailey78/shinyBS) - Twitter Bootstrap Components for Shiny.
 * [shinyjs](https://github.com/daattali/shinyjs) - Common javascript operations in shiny via R code.
 * [colourpicker](https://github.com/daattali/colourpicker) - Colour picker widget that can be used in different contexts in R.
-* [shinyEvents](https://github.com/skranz/shinyEvents) - Alternative way to build shiny apps based on event handlers.
 * [ShinySky](https://github.com/AnalytixWare/ShinySky) - Various UI widgets/components not part of Shiny e.g. alerts, styled buttons.
 * [radiant](https://github.com/radiant-rstats/radiant) - Business analytics using R and Shiny.
-* [shinyTree](https://github.com/tdanker/shinyTree) - Enables Shiny application developers to use the jsTree library in their applications.
+* [shinyTree](https://github.com/shinyTree/shinyTree) - Enables Shiny application developers to use the jsTree library in their applications.
 * [shinystan](http://mc-stan.org/interfaces/shinystan) - Provides visual and numerical summaries of model parameters and convergence diagnostics for MCMC simulations.
 * [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - jQuery UI interactions and effects for shiny.
 * [bsplus](https://github.com/ijlyttle/bsplus) - Shiny and R Markdown addons to Bootstrap 3.
@@ -142,8 +142,6 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) - Insert interactive charts from ECharts into Shiny.
 * [shinyFeedback](https://github.com/merlinoa/shinyFeedback) - Display user feedback along side Shiny inputs.
 * [shinycssloader](https://github.com/andrewsali/shinycssloaders) - Add CSS loader animations to Shiny outputs.
-* [regexSelect](https://github.com/yonicd/regexSelect) - Enable regular expression searches within a shiny selectize object.
-* [rclipboard](https://github.com/sbihorel/rclipboard) - clipboard.js for R/Shiny Applications.
 * [directoryInput](https://github.com/wleepang/shiny-directory-input) - Widget for interactive selection of directories.
 * [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications.
 * [shinysense](https://github.com/nstrayer/shinysense) - Series of Shiny modules to help Shiny sense the world around it.
@@ -152,15 +150,25 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [shinytest](https://github.com/rstudio/shinytest) - Automated testing for shiny apps.
 * [timevis](https://github.com/daattali/timevis/) - Create interactive timeline visualizations in R.
 * [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr). 
-* [shiny.collections](https://github.com/Appsilon/shiny.collections)  - Google Docs-like live collaboration in Shiny
+* [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny.
+* [RinteRface](https://rinterface.com) - A collection of HTML templates for Shiny.
+* [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - Semantic UI wrapper for Shiny.
+* [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on shiny.
+* [shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Add a custom loader for R Shiny.
+* [shinybusy](https://github.com/dreamRs/shinybusy) - Minimal busy indicator for Shiny apps.
+* [waiter](https://github.com/JohnCoene/waiter) - Loading screens for Shiny.
+* [shinyhelper](https://github.com/cwthom/shinyhelper) - Add markdown help files to Shiny apps.
+* [shinyauthr](https://github.com/PaulC91/shinyauthr) - Server-side authentication using shiny modules.
+* [auth0](https://github.com/curso-r/auth0) - Authentication in Shiny apps using Auth0 service.
+* [reactlog](https://github.com/rstudio/reactlog) - Visual insight into a Shiny apps reactive graph.
 
 ## Integrations
 
-* [Tableau](https://www.mandsconsulting.com/hosting-a-shiny-app-in-tableau) - Host a Shiny App in Tableau.
 * [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
 	* [Crosstalk](https://rstudio.github.io/crosstalk/shiny.html) - Extends htmlwidgets with functionality for implementing cross-widget interactions.
 	* [DT](https://github.com/rstudio/DT) - Provides a function `datatable()` to display R data via the DataTables javascript library.
 	* [leaflet](http://rstudio.github.io/leaflet/shiny.html) - JavaScript library for creating dynamic maps that support panning and zooming along with various annotations like markers, polygons, and popups.
+	* [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Add and update small charts on an interactive leaflet maps.
 	* [d3heatmap](https://github.com/rstudio/d3heatmap) - Implements a D3 heatmap htmlwidget.
 	* [dygraphs](https://github.com/rstudio/dygraphs) - R interface to the dygraphs JavaScript charting library. It provides rich facilites for charting time-series data in R.
 	* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Tool for creating diagrams and flowcharts using Graphviz and Mermaid.
@@ -170,10 +178,19 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [rbokeh](http://hafen.github.io/rbokeh/) - Interface to Bokeh that provides a flexible, powerful, declarative framework for creating interactive plots.
 	* [plotly](https://github.com/ropensci/plotly) - Easily translate your ggplot2 graphics to an interactive web-based version, and also provides bindings to the plotly.js graphing library.
 	* [formattable](https://renkun.me/formattable/) - This package is designed for applying formatting on vectors and data frames to make data presentation easier, richer, more flexible and hopefully convey more information.
-	* [Gallery of HTML Widgets](http://gallery.htmlwidgets.org/) - Gallery of all R htmlwidgets.
-	* [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget)
+	* [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget) - Add More Interactivity to htmlWidgets.
 	* [gglabeller](https://github.com/AliciaSchep/gglabeller) - Gadget that enables selecting points on a ggplot to label.
 	* [billboarder](https://github.com/dreamRs/billboarder) - Htmlwidget for billboard.js.
+	* [highcharter](http://jkunst.com/highcharter/index.html) - Flexible JavaScript charting libraries in shiny.
+	* [rhandsontable](https://github.com/jrowen/rhandsontable) - An htmlwidgets implementation of Handsontable.js.
+    * [echarts4r](https://github.com/JohnCoene/echarts4r) - Create interactive charts by leveraging Echarts.js library.
+    * [rintrojs](https://github.com/carlganz/rintrojs) - Wrapper for the Intro.js library.
+    * [slickR](https://github.com/metrumresearchgroup/slickR) - Slick carousel htmlwidget for R.
+    * [rclipboard](https://github.com/sbihorel/rclipboard) - clipboard.js for R/Shiny Applications.
+    * [scatterD3](https://github.com/juba/scatterD3) - Scatter plot htmlwidget based on D3.js.
+    * [trelliscopejs](https://github.com/hafen/trelliscopejs/) - TrelliscopeJS R package.
+    * [visNetwork](https://github.com/datastorm-open/visNetwork) - Network visualization for R using vis.js library.
+    * [sigmajs](https://github.com/JohnCoene/sigmajs) - Fully-fledged wrapper for the sigma.js JavaScript library.
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
 * [ggvis](https://github.com/rstudio/ggvis) - Make it easy to describe interactive web graphics in R.
@@ -191,6 +208,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Jeff Allen](https://github.com/trestletech)
 * [Vincent Nijs](https://github.com/vnijs)
 * [Sebastian Kranz](https://github.com/skranz)
+* [David Granjon](https://divadnojnarg.github.io)
 
 # Books
 
@@ -199,35 +217,32 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 
 # Galleries
 
-* [R-Studio]()
+* R-Studio
 	* [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/) - Featured user Shiny apps.
 	* [Shiny Gallery](https://shiny.rstudio.com/gallery/) - Shiny apps and much more.
 * [Showmeshiny](http://www.showmeshiny.com/) - Huge gallery of Shiny apps.
 * [Shiny Widgets](http://shinyapps.org/) - Experience statistics with apps designed for teaching and analysis.
-* [Html Widgets]()
+* Html Widgets
 	* [Html Widgets Showcase](http://www.htmlwidgets.org/showcase_leaflet.html) - Featured Html widgets.
 	* [Html Widgets Gallery](http://gallery.htmlwidgets.org/) - User submitted Html widgets.
 * [R Graph Catalog](http://shinyapps.stat.ubc.ca/r-graph-catalog/) - Complement to the book  “Creating More Effective Graphs” by Naomi Robbins.
+* [Awesome Shiny Apps for Statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) - A curated list of awesome Shiny Apps for statistics.
 
 # App Examples
 
 * [R-Studio Examples](https://github.com/rstudio/shiny-examples)
 * [Waze](https://www.rstudio.com/resources/customer-spotlight/waze_story/) - Community based real-time traffic and navigation info.
-* [Astra Zenca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
+* [Astra Zeneca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
 * [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - Traveling salesman app.
-* [Shiny GEM](https://www.donaldmellenbruch.com/post/introducing-shiny-gem/) - ‘GEM’ stands for ‘general exploratory methods’, as this app aims to simplify a variety of basic EDA tasks.
+* [Shiny GEM](https://www.donaldmellenbruch.com/project/shinygem/) - ‘GEM’ stands for ‘general exploratory methods’, as this app aims to simplify a variety of basic EDA tasks.
 * [shinyEd](https://github.com/ShinyEd/ShinyEd) - Statistics education apps.
-* [shinyData](https://github.com/yindeng/shinyData) - Interactive data analysis and visualization.
 * [STARTapp](https://github.com/jminnier/STARTapp) - Transcriptome Analysis Resource Tool.
 * [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) - Provides a graphical user interface to the microbiome analysis package for R, called phyloseq.
 * [shiny-ampvis2](https://kasperskytte.shinyapps.io/shinyampvis) - Provides some basic functionality for using ampvis2 to visualize microbiome data.
 * [Google Analytics Dashboard](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - Demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL.
 * [BallR](https://github.com/toddwschneider/ballr) - Uses the NBA Stats API to visualize every shot taken by a player during an NBA season dating back to 1996.
-* [DDCV](https://github.com/xtmgah/DDCV) - Evaluate drug-drug interactions.
-* [Github: Hot or Not](https://github.com/wsurles/github_hot_or_not) - Analyzes what repos are hot on github.
 * [GenMap-Comparator](https://github.com/holtzy/GenMap-Comparator) - Compare genetic maps with D3 & Shiny.
 * [MAVIS](https://github.com/kylehamilton/MAVIS) - MAVIS: Meta Analysis via Shiny.
-* [shinyTreeViewer](https://github.com/KlausVigo/shinyTreeViewer) - Simple treeviewer based on the R packages ape and phangorn.
 * [iTunes Reviews Analysis](https://github.com/amrrs/itunesr_webapp) - iTunes App Store Reviews Text Extractor and Text Analysis Web App.
 * [NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer) - Optimize your liquor cabinet using cocktail recipes from New York Times Cooking.
 * [Lights Out game](https://daattali.com/shiny/lightsout/) - Lights Out is a puzzle game consisting of a grid of lights that are either on or off.
@@ -235,7 +250,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 	* [Workforce Demographics](https://atogov.shinyapps.io/workforcedmgs/) - View a range of workforce related demographics information across an organisation. [Source Code](https://github.com/atogov/workforceDmgs).
 	* [Bivariate Demographics](https://atogov.shinyapps.io/bivariatedmgs/) - Examine how an organisation is performing on a range of demographic information. [Source Code](https://github.com/atogov/bivariateDmgs).
 * [Shiny Database App (CRUD)](https://ipub.com/dev-corner/apps/shiny_crud01/) - An example of a [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) shiny app with [accompanying how-to post](https://ipub.com/shiny-crud-app/).
-* [taskviewr](https://bearloga.shinyapps.io/taskviewr/) - Browse R packages by CRAN Task Views and license info.
+* [taskviewr](https://github.com/bearloga/taskviewr) - Browse R packages by CRAN Task Views and license info.
 * [homebrewR](https://davesteps.shinyapps.io/homebrewR/) - Explore and compare beer recipes.
 * [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - Visualize and explore record collections for Discogs users.
 * [polMonitor](https://ewenme.shinyapps.io/polMonitor/) - Monitor police violence in the United States.
@@ -259,3 +274,4 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Abdul Majed Raja](https://www.github.com/amrrs)
 * [Leonardo Trimarchi](https://domthecodingcaveman.wordpress.com/)
 * [Kshitiz Khanal](http://twitter.com/kshitizkhanal7)
+* [Alyssa Columbus](https://alyssacolumbus.com)
