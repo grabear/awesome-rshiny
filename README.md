@@ -252,7 +252,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Shiny Database App (CRUD)](https://ipub.com/dev-corner/apps/shiny_crud01/) - An example of a [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) shiny app with [accompanying how-to post](https://ipub.com/shiny-crud-app/).
 * [taskviewr](https://github.com/bearloga/taskviewr) - Browse R packages by CRAN Task Views and license info.
 * [homebrewR](https://davesteps.shinyapps.io/homebrewR/) - Explore and compare beer recipes.
-* [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - Visualize and explore record collections for Discogs users.
+* [vinylSpotting](https://github.com/ewenme/vinylspotting) - Visualize and explore Discogs record collections.
 * [polMonitor](https://ewenme.shinyapps.io/polMonitor/) - Monitor police violence in the United States.
 * [OCRinShiny](https://github.com/longhowlam/OCRinShiny) - OCR an image with the tesseract package.
 * [ExpressionDB](https://github.com/5c077/ExpressionDB) - Host gene expression/ontology data with Shiny.
