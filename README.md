@@ -53,8 +53,8 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 
 * [Shiny Server](https://github.com/rstudio/shiny-server) - Back end software that builds a web server for shiny apps.
 * [RStudio Connect](https://www.rstudio.com/products/connect/) - Back end software for hosing shiny applications, Rmarkdown... plus other features for enterprise contexts.
-* [Shinyproxy](https://www.shinyproxy.io/) - Uses 
-containers for hosting shiny apps and a Java server control and proxy traffic to the app containers. [How-to Blog](http://lukesingham.com/shiny-containers-with-shinyproxy/).
+* [Shinyproxy](https://www.shinyproxy.io/) - Uses containers for hosting shiny apps and a Java server control and proxy traffic to the app containers. [How-to Blog](http://lukesingham.com/shiny-containers-with-shinyproxy/).
+* [ShinyStudio](https://github.com/dm3ll3n/ShinyStudio) - Builds on the [Rocker project](https://www.rocker-project.org/) by including ShinyProxy to provide secured access to RStudio, VS Code, and Shiny.
 
 ### Platform As A Service (PAAS)
 
