@@ -53,8 +53,8 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 
 * [Shiny Server](https://github.com/rstudio/shiny-server) - Back end software that builds a web server for shiny apps.
 * [RStudio Connect](https://www.rstudio.com/products/connect/) - Back end software for hosing shiny applications, Rmarkdown... plus other features for enterprise contexts.
-* [Shinyproxy](https://www.shinyproxy.io/) - Uses 
-containers for hosting shiny apps and a Java server control and proxy traffic to the app containers. [How-to Blog](http://lukesingham.com/shiny-containers-with-shinyproxy/).
+* [Shinyproxy](https://www.shinyproxy.io/) - Uses containers for hosting shiny apps and a Java server control and proxy traffic to the app containers. [How-to Blog](http://lukesingham.com/shiny-containers-with-shinyproxy/).
+* [ShinyStudio](https://github.com/dm3ll3n/ShinyStudio) - Builds on the [Rocker project](https://www.rocker-project.org/) by including ShinyProxy to provide secured access to RStudio, VS Code, and Shiny.
 
 ### Platform As A Service (PAAS)
 
@@ -234,7 +234,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Waze](https://www.rstudio.com/resources/customer-spotlight/waze_story/) - Community based real-time traffic and navigation info.
 * [Astra Zeneca](https://www.rstudio.com/resources/customer-spotlight/astra_zeneca/) - Data science tools used to create medicines more efficiently.
 * [shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - Traveling salesman app.
-* [Shiny GEM](https://www.donaldmellenbruch.com/project/shinygem/) - ‘GEM’ stands for ‘general exploratory methods’, as this app aims to simplify a variety of basic EDA tasks.
+* [Shiny GEM](https://github.com/dm3ll3n/Shiny-GEM) - ‘GEM’ stands for ‘general exploratory methods’, as this app aims to simplify a variety of basic EDA tasks.
 * [shinyEd](https://github.com/ShinyEd/ShinyEd) - Statistics education apps.
 * [STARTapp](https://github.com/jminnier/STARTapp) - Transcriptome Analysis Resource Tool.
 * [shiny-phyloseq](https://github.com/joey711/shiny-phyloseq) - Provides a graphical user interface to the microbiome analysis package for R, called phyloseq.
@@ -252,7 +252,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [Shiny Database App (CRUD)](https://ipub.com/dev-corner/apps/shiny_crud01/) - An example of a [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) shiny app with [accompanying how-to post](https://ipub.com/shiny-crud-app/).
 * [taskviewr](https://github.com/bearloga/taskviewr) - Browse R packages by CRAN Task Views and license info.
 * [homebrewR](https://davesteps.shinyapps.io/homebrewR/) - Explore and compare beer recipes.
-* [Vinylspotting](https://ewenme.shinyapps.io/vinylspotting/) - Visualize and explore record collections for Discogs users.
+* [vinylSpotting](https://github.com/ewenme/vinylspotting) - Visualize and explore Discogs record collections.
 * [polMonitor](https://ewenme.shinyapps.io/polMonitor/) - Monitor police violence in the United States.
 * [OCRinShiny](https://github.com/longhowlam/OCRinShiny) - OCR an image with the tesseract package.
 * [ExpressionDB](https://github.com/5c077/ExpressionDB) - Host gene expression/ontology data with Shiny.
