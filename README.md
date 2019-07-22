@@ -263,6 +263,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 * [Shiny App Spotify](https://github.com/joelcponte/shiny-app-spotify) - Connect with spotify's API and generate personalized playlist recommendations through machine learning and data visualization.
 * [National Parks Weather](https://github.com/sgaraycoa/National-Parks-Weather) - Visualize National Parks locations and weather using user input.
 * [html2r](https://github.com/alandipert/html2r) - Convert HTML to R.
+* [Anomaly Detection](https://murat-koptur.shinyapps.io/AnomalyDetectionShiny/) - Detect anomalies on univariate timeseries data using AnomalyDetection package. 
 
 # Contributors
 
