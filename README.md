@@ -161,6 +161,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 * [shinyauthr](https://github.com/PaulC91/shinyauthr) - Server-side authentication using shiny modules.
 * [auth0](https://github.com/curso-r/auth0) - Authentication in Shiny apps using Auth0 service.
 * [reactlog](https://github.com/rstudio/reactlog) - Visual insight into a Shiny apps reactive graph.
+* [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
 
 ## Integrations
 
