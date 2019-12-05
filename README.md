@@ -161,6 +161,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 * [shinyauthr](https://github.com/PaulC91/shinyauthr) - Server-side authentication using shiny modules.
 * [auth0](https://github.com/curso-r/auth0) - Authentication in Shiny apps using Auth0 service.
 * [reactlog](https://github.com/rstudio/reactlog) - Visual insight into a Shiny apps reactive graph.
+* [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
 
 ## Integrations
 
@@ -191,6 +192,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
     * [trelliscopejs](https://github.com/hafen/trelliscopejs/) - TrelliscopeJS R package.
     * [visNetwork](https://github.com/datastorm-open/visNetwork) - Network visualization for R using vis.js library.
     * [sigmajs](https://github.com/JohnCoene/sigmajs) - Fully-fledged wrapper for the sigma.js JavaScript library.
+    * [excelR](https://github.com/Swechhya/excelR) - An interface to jExcel.js library.
 * [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/index.html) - Easy interactive dashboards for R.
 * [Shiny in Rmarkdown](http://rmarkdown.rstudio.com/authoring_shiny.html) - Run shiny apps in rmarkdown documents.
 * [ggvis](https://github.com/rstudio/ggvis) - Make it easy to describe interactive web graphics in R.
@@ -214,6 +216,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 
 * [Web Application and Development Using Shiny (2nd edition) - by Chris Beely](https://www.amazon.com/Web-Application-Development-using-Shiny/dp/1782174346)
 * [Learing Shiny - by Hernán G. Resnizky](https://www.amazon.com/Learning-Shiny-Hernan-G-Resnizky/dp/1785280902)
+* [(WIP) Mastering Shiny - by Hadley Wickham](https://mastering-shiny.org/)
 
 # Galleries
 
@@ -263,6 +266,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 * [Shiny App Spotify](https://github.com/joelcponte/shiny-app-spotify) - Connect with spotify's API and generate personalized playlist recommendations through machine learning and data visualization.
 * [National Parks Weather](https://github.com/sgaraycoa/National-Parks-Weather) - Visualize National Parks locations and weather using user input.
 * [html2r](https://github.com/alandipert/html2r) - Convert HTML to R.
+* [Anomaly Detection](https://murat-koptur.shinyapps.io/AnomalyDetectionShiny/) - Detect anomalies on univariate timeseries data using AnomalyDetection package. 
 
 # Contributors
 
