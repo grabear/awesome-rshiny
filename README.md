@@ -270,6 +270,8 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 
 # Contributors
 
+[![](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/images/0)](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/links/0)[![](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/images/1)](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/links/1)[![](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/images/2)](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/links/2)[![](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/images/3)](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/links/3)[![](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/images/4)](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/links/4)[![](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/images/5)](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/links/5)[![](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/images/6)](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/links/6)[![](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/images/7)](https://sourcerer.io/fame/grabear/grabear/awesome-rshiny/links/7)
+
 * [Rob Gilmore](https://github.com/grabear)
 * [Shaurita Hutchins](https://github.com/sdhutchins)
 * [Devin Pastoor](https://github.com/dpastoor)
