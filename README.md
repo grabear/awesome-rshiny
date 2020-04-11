@@ -162,6 +162,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 * [auth0](https://github.com/curso-r/auth0) - Authentication in Shiny apps using Auth0 service.
 * [reactlog](https://github.com/rstudio/reactlog) - Visual insight into a Shiny apps reactive graph.
 * [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
+* [shinymanager](https://github.com/datastorm-open/shinymanager/) - Simple and secure authentication for single 'Shiny' applications using a SQLite database.
 
 ## Integrations
 
