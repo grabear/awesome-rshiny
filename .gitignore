@@ -9,3 +9,4 @@ shiny_dir_mana.txt
 /.idea
 /.idea/**
 .spyproject/*
+.Rproj.user

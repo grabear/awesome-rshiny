@@ -199,6 +199,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 * [RInno](https://github.com/ficonsulting/RInno) - Install local shiny apps by providing an interface between R and Inno Setup, (Windows Only).
 * [googleVis](https://github.com/mages/googleVis) - An interface between R and the [Google's charts tools](https://developers.google.com/chart/).
 * [pool](https://github.com/rstudio/pool) - Abstract away the logic of connection management and the performance cost of fetching a new connection from a remote database.
+* [scrollrevealR](https://github.com/feddelegrand7/scrollrevealR) - Animate shiny elements when they scroll into view  using the scrollrevealjs library.
 
 # People
 
