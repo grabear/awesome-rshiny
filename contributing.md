@@ -1,8 +1,8 @@
-====================================
-Contributing to this project
-====================================
 
-# The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away
+# Contributing to this project
+(*When in doubt refer to the awesome [contributing.md](https://github.com/sindresorhus/awesome/blob/main/contributing.md).*)
+
+The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away
 because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.
 
 Version Control - Forking
