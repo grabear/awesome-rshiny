@@ -1,10 +1,13 @@
-# Awesome R Shiny [![Join the chat at https://gitter.im/awesome-rshiny/Lobby](https://badges.gitter.im/awesome-rshiny/Lobby.svg)](https://gitter.im/awesome-rshiny/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[<img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" align="right" width="100">](https://www.rstudio.com)
-A curated list of resources for R Shiny.  This awesome list was inspired by https://github.com/dpastoor/awesome-shiny.
-Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics)
+<div align="center">
+	<img width="500" height="350" src="media/awesome-rshiny-logo.svg" alt="Awesome">
 
-### This list is currently featured on [Awesome-R!](https://awesome-r.com/)
+</div>
 
+[![Join the chat at https://gitter.im/awesome-rshiny/Lobby](https://badges.gitter.im/awesome-rshiny/Lobby.svg)](https://gitter.im/awesome-rshiny/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awesome-r.com/)*)
+
+# Contents
 - [Resources](#resources)
     - [General](#general)
     - [Community](#community)
@@ -39,7 +42,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 ## Community
 
 * [Shiny Server Forum](https://support.rstudio.com/hc/en-us/sections/204025308-Shiny-Server)
-* [StackOverflow Questions](http://stackoverflow.com/questions/tagged/shiny)
+* [Stack Overflow Questions](http://stackoverflow.com/questions/tagged/shiny)
 * [R-bloggers](http://www.r-bloggers.com/search/shiny)
 * [Google Group](https://groups.google.com/forum/#!forum/shiny-discuss)
 * [RStudio Community](https://community.rstudio.com/c/shiny) 
@@ -128,7 +131,7 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
         * [miniUI](https://github.com/rstudio/miniUI) - Provides UI widget and layout functions for writing Shiny apps that work well on small screens.
 * [dashboardthemes](https://github.com/nik01010/dashboardthemes) - An experimental R package to provide custom theme options for Shinydashboard applications
 * [shinyAce](https://github.com/trestletech/shinyAce) - Integrate ace editor with shiny.
-* [shinyjs](https://github.com/daattali/shinyjs) - Common javascript operations in shiny via R code.
+* [shinyjs](https://github.com/daattali/shinyjs) - Common JavaScript operations in shiny via R code.
 * [colourpicker](https://github.com/daattali/colourpicker) - Colour picker widget that can be used in different contexts in R.
 * [ShinySky](https://github.com/AnalytixWare/ShinySky) - Various UI widgets/components not part of Shiny e.g. alerts, styled buttons.
 * [radiant](https://github.com/radiant-rstats/radiant) - Business analytics using R and Shiny.
@@ -166,9 +169,9 @@ Also see [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesom
 
 ## Integrations
 
-* [HTML Widgets/Javascript](http://www.htmlwidgets.org/)
+* [HTML Widgets/JavaScript](http://www.htmlwidgets.org/)
 	* [Crosstalk](https://rstudio.github.io/crosstalk/shiny.html) - Extends htmlwidgets with functionality for implementing cross-widget interactions.
-	* [DT](https://github.com/rstudio/DT) - Provides a function `datatable()` to display R data via the DataTables javascript library.
+	* [DT](https://github.com/rstudio/DT) - Provides a function `datatable()` to display R data via the DataTables JavaScript library.
 	* [leaflet](http://rstudio.github.io/leaflet/shiny.html) - JavaScript library for creating dynamic maps that support panning and zooming along with various annotations like markers, polygons, and popups.
 	* [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Add and update small charts on an interactive leaflet maps.
 	* [d3heatmap](https://github.com/rstudio/d3heatmap) - Implements a D3 heatmap htmlwidget.
