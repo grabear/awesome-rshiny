@@ -166,6 +166,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [reactlog](https://github.com/rstudio/reactlog) - Visual insight into a Shiny apps reactive graph.
 - [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
 - [shinymanager](https://github.com/datastorm-open/shinymanager/) - Simple and secure authentication for single 'Shiny' applications using a SQLite database.
+- [golem](https://github.com/ThinkR-open/golem/) - Framework for building production-grade shiny applications.
 
 ### Integrations
 
@@ -221,6 +222,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [Web Application and Development Using Shiny (2nd edition) - by Chris Beely](https://www.amazon.com/Web-Application-Development-using-Shiny/dp/1782174346)
 - [Learing Shiny - by Hernán G. Resnizky](https://www.amazon.com/Learning-Shiny-Hernan-G-Resnizky/dp/1785280902)
 - [(WIP) Mastering Shiny - by Hadley Wickham](https://mastering-shiny.org/)
+- [Engineering Production-grade Shiny Apps - by Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard](https://www.amazon.fr/Engineering-Production-grade-Shiny-Apps-Colin/dp/0367466023/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ## Galleries
 
