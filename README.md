@@ -272,6 +272,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [National Parks Weather](https://github.com/sgaraycoa/National-Parks-Weather) - Visualize National Parks locations and weather using user input.
 - [html2r](https://github.com/alandipert/html2r) - Convert HTML to R.
 - [Anomaly Detection](https://murat-koptur.shinyapps.io/AnomalyDetectionShiny/) - Detect anomalies on univariate timeseries data using AnomalyDetection package.
+- [R Shiny User Management & Authentication](https://github.com/yanirmor/shiny-user-management) - Demonstration of user management and authentication system in R Shiny.
 
 ## Contributors
 
