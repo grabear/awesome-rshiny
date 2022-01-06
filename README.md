@@ -165,6 +165,8 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [reactlog](https://github.com/rstudio/reactlog) - Visual insight into a Shiny apps reactive graph.
 - [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
 - [shinymanager](https://github.com/datastorm-open/shinymanager/) - Simple and secure authentication for single 'Shiny' applications using a SQLite database.
+- [systemPipeShiny](https://github.com/systemPipeR/systemPipeShiny) - Design/run biological or general data analysis workflows, and visualize downstream results.
+- [golem](https://github.com/ThinkR-open/golem/) - Framework for building production-grade shiny applications.
 - [shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny
 - [shinyalert](https://github.com/daattali/shinyalert) - Easily create pretty popup messages (modals) in Shiny
 - [shinydisconnect](https://github.com/daattali/shinydisconnect) - Show a nice message when a Shiny app disconnects or errors
@@ -226,6 +228,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [Web Application and Development Using Shiny (2nd edition) - by Chris Beely](https://www.amazon.com/Web-Application-Development-using-Shiny/dp/1782174346)
 - [Learing Shiny - by Hernán G. Resnizky](https://www.amazon.com/Learning-Shiny-Hernan-G-Resnizky/dp/1785280902)
 - [(WIP) Mastering Shiny - by Hadley Wickham](https://mastering-shiny.org/)
+- [Engineering Production-grade Shiny Apps - by Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard](https://www.amazon.fr/Engineering-Production-grade-Shiny-Apps-Colin/dp/0367466023/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ## Galleries
 
@@ -276,6 +279,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [National Parks Weather](https://github.com/sgaraycoa/National-Parks-Weather) - Visualize National Parks locations and weather using user input.
 - [html2r](https://github.com/alandipert/html2r) - Convert HTML to R.
 - [Anomaly Detection](https://murat-koptur.shinyapps.io/AnomalyDetectionShiny/) - Detect anomalies on univariate timeseries data using AnomalyDetection package.
+- [R Shiny User Management & Authentication](https://github.com/yanirmor/shiny-user-management) - Demonstration of user management and authentication system in R Shiny.
 
 ## Contributors
 
@@ -290,3 +294,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [Leonardo Trimarchi](https://domthecodingcaveman.wordpress.com/)
 - [Kshitiz Khanal](http://twitter.com/kshitizkhanal7)
 - [Alyssa Columbus](https://alyssacolumbus.com)
+- [Le Zhang](https://github.com/lz100)
