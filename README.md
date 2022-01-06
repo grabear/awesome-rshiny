@@ -95,7 +95,6 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 	- [Dean Attali: Shiny Case Studies: My new online interactive video course (DataCamp)](https://deanattali.com/blog/shiny-use-cases-datacamp-course/)
 - [Dean Attali](https://deanattali.com/shiny/)
     - [CRANalerts: Get email alerts when a CRAN package gets updated](https://cranalerts.com/)
-	- [2018 Blog Post: shinyalert: Easily create pretty popup messages (modals) in Shiny](https://deanattali.com/blog/shinyalert-package/)
 	- [Blog Post:  Building Shiny apps - an interactive tutorial](http://deanattali.com/blog/building-shiny-apps-tutorial/)
 	- [Blog Post:  Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
 	- [Blog Post:  How to get your very own RStudio Server and Shiny Server with DigitalOcean](http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
@@ -144,7 +143,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [shinyforms](https://github.com/daattali/shinyforms) - Easily create questionnaire-type forms with Shiny.
 - [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) - Insert interactive charts from ECharts into Shiny.
 - [shinyFeedback](https://github.com/merlinoa/shinyFeedback) - Display user feedback along side Shiny inputs.
-- [shinycssloader](https://github.com/andrewsali/shinycssloaders) - Add CSS loader animations to Shiny outputs.
+- [shinycssloaders](https://github.com/daattali/shinycssloaders) - Add CSS loader animations to Shiny outputs.
 - [directoryInput](https://github.com/wleepang/shiny-directory-input) - Widget for interactive selection of directories.
 - [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Implements Google Material Design in Shiny Applications.
 - [shinysense](https://github.com/nstrayer/shinysense) - Series of Shiny modules to help Shiny sense the world around it.
@@ -168,6 +167,11 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [shinymanager](https://github.com/datastorm-open/shinymanager/) - Simple and secure authentication for single 'Shiny' applications using a SQLite database.
 - [systemPipeShiny](https://github.com/systemPipeR/systemPipeShiny) - Design/run biological or general data analysis workflows, and visualize downstream results.
 - [golem](https://github.com/ThinkR-open/golem/) - Framework for building production-grade shiny applications.
+- [shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny
+- [shinyalert](https://github.com/daattali/shinyalert) - Easily create pretty popup messages (modals) in Shiny
+- [shinydisconnect](https://github.com/daattali/shinydisconnect) - Show a nice message when a Shiny app disconnects or errors
+- [shinyscreenshot](https://github.com/daattali/shinyscreenshot) - Capture screenshots of entire pages or parts of pages in Shiny apps
+- [reactor](https://github.com/yonicd/reactor) - Unit testing for shiny reactivity
 
 ### Integrations
 
@@ -190,6 +194,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 	- [billboarder](https://github.com/dreamRs/billboarder) - Htmlwidget for billboard.js.
 	- [highcharter](http://jkunst.com/highcharter/index.html) - Flexible JavaScript charting libraries in shiny.
 	- [rhandsontable](https://github.com/jrowen/rhandsontable) - An htmlwidgets implementation of Handsontable.js.
+	- [flextable](https://github.com/davidgohel/flextable) - Easily create customizable tables
     - [echarts4r](https://github.com/JohnCoene/echarts4r) - Create interactive charts by leveraging Echarts.js library.
     - [rintrojs](https://github.com/carlganz/rintrojs) - Wrapper for the Intro.js library.
     - [slickR](https://github.com/metrumresearchgroup/slickR) - Slick carousel htmlwidget for R.
