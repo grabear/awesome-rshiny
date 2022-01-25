@@ -165,7 +165,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [reactlog](https://github.com/rstudio/reactlog) - Visual insight into a Shiny apps reactive graph.
 - [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
 - [shinymanager](https://github.com/datastorm-open/shinymanager/) - Simple and secure authentication for single 'Shiny' applications using a SQLite database.
-- [polished](https://github.com/Tychobra/polished) - Authentication, user administration, and web hosting for secure Shiny apps & Rmarkdown documents (flexdashboards, HTML, & PDF)
+- [polished](https://github.com/Tychobra/polished) - Authentication, user administration, and web hosting for secure Shiny apps & Rmarkdown documents (flexdashboards, HTML, & PDF).
 - [systemPipeShiny](https://github.com/systemPipeR/systemPipeShiny) - Design/run biological or general data analysis workflows, and visualize downstream results.
 - [golem](https://github.com/ThinkR-open/golem/) - Framework for building production-grade shiny applications.
 - [shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny
