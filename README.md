@@ -121,6 +121,13 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 
 ## Tools
 
+### Data Exploration Applications
+
+- [esquisse](https://github.com/dreamRs/esquisse) - An add-in, package and application to let you explore your data quickly to extract the information they hold.
+- [radiant](https://github.com/radiant-rstats/radiant) - Business analytics using R and Shiny.
+- [ExPanDaR](https://github.com/joachim-gassen/ExPanDaR) - A shiny based app supporting interactive exploratory data analysis.
+- [dashboard-builder](https://github.com/petergandenberger/dashboard-builder) - A tool to help create Shiny-Dashboards without writing any code.
+
 ### Packages
 
 - R-Studio
@@ -297,3 +304,4 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [Alyssa Columbus](https://alyssacolumbus.com)
 - [Patrick Howard](https://polished.tech)
 - [Le Zhang](https://github.com/lz100)
+- [Stuart Lodge](https://github.com/slodge)
